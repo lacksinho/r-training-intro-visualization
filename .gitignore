@@ -1,4 +1,9 @@
- Training_Plan/*
- *.R
- Data_Generator_Scripts/*
- .*
+/Data_Generator_Scripts/
+/Training_Plan/
+.~lock.*
+ /*.R
+
+/.*
+ .Rproj.user/
+ .RData
+.Rhistory

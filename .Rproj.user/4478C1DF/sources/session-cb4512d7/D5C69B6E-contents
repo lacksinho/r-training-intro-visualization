@@ -1,1 +1,0 @@
-ds <- read.csv("sample_students.csv")

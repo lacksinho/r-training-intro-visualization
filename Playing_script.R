@@ -6,6 +6,12 @@ df <- mutate(df, passed = score > 50)
 print(df)
 
 
+hist(ds$Score,
+     breaks=20,col="lightgreen",
+     main="Histogram of Student Scores",
+     xlab="Scores")
+
+
 boxplot(Score ~ Gender, data=ds,
         col=c("orange", "cyan"),
         main="Scores by Gender",
@@ -22,8 +28,11 @@ programme_counts <- table(ds$Programme)
 
 barplot(programme_counts, main = "Number of Students per Programme", col = "skyblue", xlab = "Programme",  ylab = "Number of Students")
 
+
 model1 <-lm(Score ~ Age,data=ds)
 summary(model1)
+
+
 
 
 

@@ -1,501 +1,501 @@
-StudentID,FirstName,LastName,Gender,Age,YearOfStudy,Programme,Score,StudyHours,Attendance,PreviousScore,StudyMethod,PartTimeJob,UniversityRank,Region,ExtracurricularActivity,Scholarship,SocialMediaUsage
-S0001,Grace,Davis,Male,20,2nd,Engineering,55.2,32,64.90261043197216,70.5,Group,No,4,Urban,Yes,No,19
-S0002,Bob,Jones,Male,23,3rd,Computer Science,62.8,10,55.268246112542826,63.3,Solo,No,2,Urban,Yes,No,6
-S0003,Mary,Jones,Male,19,1st,Statistics,70.5,13,89.09119316724679,73.6,Group,Yes,2,Rural,No,Yes,8
-S0004,Grace,Davis,Female,25,3rd,Computer Science,55.3,24,82.2074610737958,83.9,Online,No,4,Urban,Yes,Yes,23
-S0005,Alice,Smith,Female,23,4th,Computer Science,66.1,5,52.40930061966481,58.7,Solo,No,3,Rural,No,Yes,21
-S0006,Daniel,Williams,Male,23,2nd,Computer Science,51.7,12,68.00252329504892,54.0,Solo,No,2,Urban,Yes,No,9
-S0007,Mary,Johnson,Male,25,3rd,Computer Science,59.0,27,97.8399907742143,67.4,Solo,Yes,2,Rural,No,No,11
-S0008,Mary,Smith,Male,24,3rd,Statistics,68.2,7,75.02005728551006,70.8,Online,No,1,Urban,Yes,Yes,22
-S0009,Grace,Johnson,Female,24,4th,Computer Science,49.1,8,71.63645680098523,63.2,Solo,No,3,Rural,No,Yes,11
-S0010,Jane,Davis,Male,19,3rd,Computer Science,69.4,29,72.8849802579647,76.6,Group,Yes,1,Rural,Yes,No,21
-S0011,Alice,Miller,Female,23,3rd,Engineering,64.8,19,60.444136200258185,54.3,Group,Yes,1,Rural,No,Yes,11
-S0012,Grace,Johnson,Male,20,4th,Statistics,70.5,25,68.43535854323976,70.5,Group,No,3,Rural,No,No,8
-S0013,Alice,Williams,Male,21,1st,Statistics,67.2,39,68.49066279935883,60.2,Solo,No,3,Urban,Yes,No,12
-S0014,Alice,Miller,Male,19,4th,Business,78.6,18,52.61775100937362,78.8,Group,No,4,Rural,No,No,17
-S0015,Daniel,Johnson,Male,22,1st,Statistics,66.3,16,88.37838142589591,80.9,Solo,No,3,Urban,Yes,No,8
-S0016,Mary,Davis,Female,25,2nd,Statistics,60.7,21,70.82522159519395,58.9,Group,Yes,2,Urban,Yes,No,10
-S0017,Bob,Miller,Female,23,1st,Business,66.2,13,91.10899434082117,60.6,Online,No,3,Rural,Yes,No,9
-S0018,Daniel,Davis,Male,19,1st,Statistics,70.4,39,92.51740005599477,71.9,Online,Yes,4,Urban,Yes,Yes,16
-S0019,Daniel,Johnson,Male,18,2nd,Statistics,65.5,17,60.599702734932904,61.9,Online,Yes,4,Urban,Yes,No,8
-S0020,Alice,Davis,Female,18,1st,Statistics,65.4,19,82.86767410850644,64.6,Online,No,4,Urban,No,No,13
-S0021,Peter,Williams,Female,24,4th,Statistics,58.0,22,73.6140902081491,65.2,Solo,No,3,Rural,Yes,Yes,8
-S0022,Mary,Johnson,Female,25,1st,Business,58.4,37,94.00783689607425,49.6,Group,Yes,3,Urban,Yes,No,23
-S0023,Jane,Johnson,Female,21,2nd,Statistics,51.0,10,60.787033958822704,64.9,Online,Yes,1,Urban,Yes,Yes,18
-S0024,Daniel,Johnson,Male,20,4th,Statistics,82.5,31,83.89066001550222,59.5,Solo,No,1,Rural,Yes,No,9
-S0025,Bob,Smith,Female,21,2nd,Business,52.6,27,80.38760611263612,61.1,Online,Yes,2,Rural,Yes,Yes,22
-S0026,Peter,Smith,Male,21,2nd,Engineering,58.1,31,64.76507387859164,76.5,Online,No,1,Urban,Yes,Yes,14
-S0027,Peter,Smith,Female,21,3rd,Computer Science,57.8,38,56.83004518255863,54.9,Solo,No,2,Rural,No,No,23
-S0028,Jane,Williams,Female,25,3rd,Engineering,73.9,18,82.58198802386383,71.5,Solo,Yes,4,Urban,No,No,16
-S0029,Daniel,Miller,Female,21,2nd,Business,62.1,12,86.92987290661654,62.8,Group,Yes,1,Urban,Yes,No,22
-S0030,Bob,Davis,Female,22,2nd,Computer Science,77.5,39,65.78136718816751,62.8,Group,No,3,Urban,No,No,21
-S0031,Mary,Jones,Female,25,2nd,Business,58.3,23,82.2416302011157,71.3,Online,Yes,1,Rural,Yes,Yes,15
-S0032,John,Johnson,Male,22,3rd,Business,67.8,34,69.75654538057516,67.7,Online,No,2,Urban,Yes,Yes,7
-S0033,Bob,Davis,Male,25,3rd,Statistics,56.6,18,85.66034416413089,69.6,Group,No,1,Rural,Yes,Yes,21
-S0034,Jane,Johnson,Female,24,1st,Computer Science,86.5,24,59.96076374470265,72.7,Group,No,4,Rural,Yes,No,5
-S0035,Peter,Williams,Female,19,1st,Statistics,53.1,29,94.51075013180872,62.3,Solo,Yes,3,Urban,Yes,Yes,19
-S0036,Mary,Johnson,Male,18,2nd,Computer Science,68.1,28,64.37047982327898,60.1,Group,No,2,Rural,No,No,13
-S0037,Bob,Smith,Female,21,4th,Business,71.3,18,68.38929938780765,56.3,Group,No,3,Rural,No,No,19
-S0038,John,Jones,Female,24,4th,Business,69.1,30,52.90459760401749,58.4,Online,No,3,Rural,No,Yes,7
-S0039,John,Brown,Male,19,3rd,Engineering,63.1,27,55.57561061606382,88.6,Group,No,2,Rural,No,No,23
-S0040,Alice,Johnson,Female,18,3rd,Computer Science,63.7,26,75.7930951356164,75.0,Online,No,3,Rural,Yes,Yes,17
-S0041,Alice,Davis,Female,23,3rd,Statistics,65.4,23,63.379633836398575,54.2,Group,No,3,Urban,No,No,16
-S0042,Grace,Smith,Male,20,2nd,Engineering,63.5,7,91.77401128710972,54.4,Solo,No,1,Rural,Yes,Yes,24
-S0043,Jane,Brown,Male,22,4th,Engineering,74.6,23,50.734669432747694,68.9,Group,No,3,Urban,No,No,5
-S0044,Daniel,Jones,Male,23,1st,Engineering,87.1,13,68.95470243359681,69.4,Group,No,3,Urban,No,Yes,21
-S0045,Bob,Brown,Female,25,2nd,Statistics,59.4,32,66.86727733845464,69.4,Group,No,3,Urban,No,Yes,17
-S0046,Bob,Smith,Male,18,1st,Engineering,51.3,24,50.966381545880054,63.0,Online,No,3,Urban,No,No,5
-S0047,Daniel,Miller,Male,23,1st,Statistics,64.1,11,56.21841995002551,64.0,Solo,Yes,2,Urban,Yes,No,14
-S0048,Grace,Miller,Male,20,2nd,Engineering,90.8,18,70.68213374593176,67.6,Group,No,4,Urban,No,Yes,19
-S0049,Peter,Brown,Male,24,1st,Statistics,57.0,13,74.64322922237233,65.7,Online,No,1,Rural,No,No,11
-S0050,Peter,Williams,Male,18,4th,Business,81.4,23,70.21448736274345,47.2,Solo,No,3,Rural,Yes,No,22
-S0051,Grace,Davis,Male,23,1st,Business,81.8,18,76.5468839206047,63.2,Online,Yes,3,Rural,Yes,No,20
-S0052,Peter,Davis,Female,22,4th,Business,59.5,21,79.75658374528408,58.2,Online,No,2,Urban,No,Yes,18
-S0053,Alice,Brown,Female,22,4th,Business,70.7,34,50.49619105639178,66.4,Solo,Yes,4,Rural,Yes,Yes,22
-S0054,Bob,Johnson,Male,19,4th,Business,81.3,13,73.2047579726752,88.9,Group,No,3,Rural,Yes,No,11
-S0055,Grace,Johnson,Male,23,3rd,Engineering,61.2,37,98.17496204437941,67.9,Online,No,2,Rural,Yes,No,21
-S0056,Bob,Davis,Male,21,1st,Engineering,63.0,29,75.95161400647743,62.5,Online,Yes,1,Urban,No,Yes,22
-S0057,Daniel,Davis,Female,23,2nd,Engineering,59.2,18,83.87711337294766,72.4,Group,No,1,Rural,Yes,No,16
-S0058,John,Miller,Female,24,2nd,Statistics,54.9,15,65.59319289584415,68.9,Group,Yes,3,Urban,No,Yes,12
-S0059,Alice,Williams,Female,18,1st,Statistics,58.5,39,88.69956890763812,68.4,Solo,Yes,3,Rural,No,No,6
-S0060,Mary,Smith,Female,18,3rd,Statistics,52.8,18,88.64607409380575,69.9,Solo,No,4,Urban,No,No,11
-S0061,Alice,Johnson,Female,24,3rd,Statistics,65.3,34,76.06480238270694,81.5,Solo,No,4,Urban,No,No,8
-S0062,Grace,Davis,Female,23,4th,Business,57.3,8,98.80069116396068,56.0,Group,No,3,Urban,Yes,Yes,22
-S0063,Mary,Miller,Female,24,1st,Business,67.3,8,56.27751073813267,68.8,Online,No,2,Rural,No,Yes,10
-S0064,John,Jones,Female,20,1st,Business,49.4,32,50.84738324447905,57.6,Online,Yes,4,Rural,Yes,Yes,13
-S0065,Grace,Miller,Female,25,2nd,Computer Science,68.3,12,88.50791058785481,69.4,Solo,Yes,3,Urban,No,Yes,13
-S0066,Jane,Johnson,Male,24,1st,Engineering,73.3,6,90.35777686824413,57.7,Group,No,4,Rural,Yes,No,18
-S0067,Bob,Johnson,Male,22,3rd,Statistics,45.1,26,56.01036145602881,61.7,Online,Yes,3,Urban,No,No,12
-S0068,John,Miller,Male,24,1st,Statistics,68.7,20,63.2791416479303,62.6,Solo,Yes,1,Urban,Yes,Yes,23
-S0069,Bob,Smith,Male,18,2nd,Business,77.3,33,50.877618168331445,72.8,Online,No,3,Rural,No,No,7
-S0070,Peter,Brown,Female,22,4th,Statistics,52.9,34,64.66543053902824,72.3,Online,Yes,1,Rural,No,No,22
-S0071,Jane,Johnson,Female,18,2nd,Statistics,81.7,16,88.65709369593358,55.0,Group,Yes,4,Rural,Yes,Yes,9
-S0072,Jane,Miller,Male,19,2nd,Engineering,69.2,39,75.89802638562895,65.4,Group,No,3,Urban,No,No,18
-S0073,John,Davis,Female,21,4th,Business,57.9,15,67.40477965841441,59.3,Online,Yes,4,Urban,No,No,8
-S0074,Jane,Miller,Male,18,2nd,Engineering,64.4,25,68.58696474531652,54.9,Solo,No,1,Rural,No,Yes,11
-S0075,Mary,Williams,Female,22,2nd,Computer Science,70.6,25,50.06768128577341,63.3,Group,Yes,3,Urban,Yes,No,24
-S0076,Jane,Brown,Male,19,1st,Computer Science,65.8,9,64.9900263782618,62.5,Online,No,4,Rural,No,No,16
-S0077,Bob,Jones,Female,18,1st,Computer Science,70.4,24,82.32293708189653,84.4,Group,Yes,1,Urban,No,No,6
-S0078,Bob,Smith,Female,20,4th,Business,55.8,7,98.70972219081786,68.5,Group,Yes,4,Rural,Yes,Yes,15
-S0079,Grace,Jones,Male,24,1st,Statistics,66.7,37,92.35304134919497,54.0,Group,No,2,Rural,Yes,Yes,18
-S0080,Bob,Brown,Female,21,1st,Business,50.9,13,51.17974823227646,60.5,Online,No,1,Urban,Yes,No,20
-S0081,Grace,Brown,Male,18,2nd,Business,63.9,13,94.92803023374196,73.2,Solo,No,1,Rural,Yes,No,24
-S0082,Bob,Brown,Male,19,3rd,Statistics,56.0,8,89.15992066493129,81.7,Solo,No,1,Rural,Yes,No,10
-S0083,Mary,Jones,Male,20,1st,Engineering,57.6,39,89.01880617854903,52.3,Solo,Yes,3,Urban,No,Yes,8
-S0084,Daniel,Davis,Male,23,3rd,Computer Science,77.4,21,72.89978795017858,50.0,Group,Yes,3,Rural,No,Yes,19
-S0085,Grace,Brown,Female,19,1st,Engineering,75.9,38,69.90026464772514,80.0,Online,Yes,3,Urban,No,Yes,5
-S0086,Alice,Miller,Female,24,1st,Computer Science,71.1,28,65.14578644165962,68.1,Group,No,2,Rural,Yes,No,11
-S0087,Peter,Jones,Female,19,4th,Business,54.1,36,53.284742947718286,58.1,Solo,Yes,2,Urban,No,No,16
-S0088,John,Brown,Male,20,4th,Computer Science,61.8,5,61.41176817468495,69.3,Solo,Yes,1,Rural,Yes,No,14
-S0089,Bob,Miller,Female,19,4th,Business,77.1,12,62.33018174890123,43.9,Online,No,2,Rural,Yes,No,9
-S0090,Jane,Davis,Male,20,3rd,Engineering,66.4,27,74.20385348551008,65.0,Group,No,4,Rural,No,No,16
-S0091,Daniel,Williams,Female,18,2nd,Business,88.2,16,87.3722203298347,67.6,Solo,Yes,1,Rural,Yes,Yes,22
-S0092,Bob,Davis,Female,25,1st,Engineering,68.9,16,73.69049141989733,72.4,Online,No,1,Urban,Yes,No,14
-S0093,Jane,Brown,Female,20,1st,Statistics,66.9,19,52.89222247235803,56.9,Group,Yes,4,Urban,No,No,10
-S0094,Peter,Jones,Male,20,1st,Statistics,61.9,23,97.8894900494102,65.7,Group,Yes,1,Urban,Yes,No,16
-S0095,Peter,Johnson,Female,21,3rd,Statistics,66.3,30,97.13621595470562,57.6,Solo,No,2,Urban,Yes,Yes,11
-S0096,Peter,Brown,Female,20,4th,Business,63.5,33,89.25947715742042,67.0,Solo,Yes,3,Urban,No,No,22
-S0097,Jane,Johnson,Male,20,2nd,Statistics,72.1,26,99.56639507821103,57.8,Group,No,4,Urban,Yes,Yes,6
-S0098,Bob,Miller,Female,23,3rd,Computer Science,74.6,25,77.22411664001315,61.7,Group,No,2,Urban,Yes,Yes,14
-S0099,Peter,Williams,Male,25,4th,Engineering,57.1,24,98.13841751266031,57.0,Solo,Yes,4,Rural,No,Yes,19
-S0100,Mary,Smith,Female,18,3rd,Engineering,51.7,33,53.78025203083754,70.2,Group,Yes,4,Rural,No,Yes,16
-S0101,Grace,Davis,Male,24,2nd,Computer Science,46.6,8,68.28403741306857,71.9,Solo,Yes,1,Rural,No,Yes,21
-S0102,Jane,Williams,Male,21,4th,Business,70.1,11,61.26906340033829,63.1,Group,No,1,Rural,No,No,8
-S0103,Jane,Brown,Female,23,3rd,Business,54.0,32,59.7916542067135,65.3,Solo,Yes,2,Urban,Yes,No,11
-S0104,Bob,Johnson,Male,22,2nd,Engineering,43.5,32,57.0401474446338,53.4,Online,No,4,Urban,Yes,Yes,13
-S0105,Jane,Davis,Male,25,1st,Statistics,68.9,8,81.12068207829984,62.6,Solo,No,1,Urban,No,Yes,23
-S0106,Jane,Johnson,Male,18,2nd,Business,89.9,26,89.06609278736525,64.6,Solo,Yes,1,Rural,Yes,Yes,11
-S0107,Peter,Jones,Male,18,1st,Business,64.9,16,78.91491997101804,86.0,Online,No,4,Urban,Yes,No,6
-S0108,Bob,Johnson,Male,22,3rd,Computer Science,73.4,7,57.34813547941049,56.1,Group,Yes,2,Rural,No,No,10
-S0109,Peter,Jones,Male,24,4th,Computer Science,65.8,26,90.55618849667354,76.7,Online,Yes,2,Urban,No,Yes,22
-S0110,Grace,Miller,Female,20,4th,Statistics,64.0,6,81.79773535818643,73.0,Solo,Yes,4,Urban,Yes,No,10
-S0111,Daniel,Davis,Male,23,3rd,Business,74.2,28,69.40828530634977,67.2,Group,Yes,2,Urban,No,No,17
-S0112,Grace,Davis,Male,19,4th,Business,62.1,38,83.70651477680315,79.1,Online,Yes,1,Urban,No,Yes,23
-S0113,Daniel,Smith,Female,21,4th,Computer Science,67.7,31,62.995248962141645,68.0,Group,Yes,4,Rural,No,Yes,6
-S0114,Peter,Brown,Female,19,1st,Business,68.2,5,67.25961042471053,68.1,Group,Yes,1,Rural,Yes,No,16
-S0115,Grace,Jones,Female,22,3rd,Engineering,58.3,12,95.87429215659951,64.6,Online,No,3,Urban,No,No,19
-S0116,Bob,Smith,Female,18,2nd,Computer Science,74.9,27,64.52522528357102,74.8,Group,Yes,3,Rural,Yes,No,18
-S0117,John,Johnson,Female,24,1st,Statistics,63.3,10,73.49941340789684,73.8,Online,No,2,Urban,Yes,Yes,10
-S0118,Peter,Johnson,Female,18,3rd,Computer Science,57.4,26,94.50705686980073,60.0,Solo,No,3,Urban,Yes,Yes,22
-S0119,Daniel,Smith,Female,21,1st,Business,70.4,29,85.38606751337637,54.4,Group,No,1,Urban,No,Yes,9
-S0120,Mary,Davis,Male,18,2nd,Statistics,56.0,22,53.110161308235135,63.4,Solo,Yes,3,Urban,No,No,22
-S0121,Daniel,Johnson,Male,18,2nd,Computer Science,65.3,21,57.36515221394852,58.6,Solo,No,1,Rural,No,No,7
-S0122,Mary,Miller,Female,21,3rd,Engineering,64.9,16,50.392079538595844,64.5,Group,No,2,Urban,No,Yes,7
-S0123,Jane,Miller,Male,23,2nd,Engineering,75.9,10,81.54608951145818,74.9,Online,Yes,2,Urban,No,No,14
-S0124,Grace,Smith,Male,23,1st,Computer Science,69.7,30,72.38367127052092,61.3,Group,Yes,1,Rural,Yes,Yes,23
-S0125,Mary,Jones,Male,21,2nd,Engineering,64.7,31,56.713742545113774,64.7,Solo,No,3,Urban,Yes,No,7
-S0126,Daniel,Jones,Female,24,1st,Engineering,73.2,12,97.89670605283852,65.5,Solo,Yes,2,Rural,Yes,Yes,16
-S0127,Jane,Smith,Female,22,1st,Engineering,78.9,23,76.482986197281,71.8,Online,Yes,4,Urban,No,No,20
-S0128,John,Jones,Male,25,2nd,Statistics,70.6,5,62.09466470564446,47.0,Group,Yes,2,Urban,Yes,No,21
-S0129,Bob,Davis,Female,18,3rd,Engineering,65.1,33,75.03017855773538,60.1,Solo,Yes,3,Urban,Yes,Yes,11
-S0130,Bob,Davis,Male,24,4th,Engineering,51.9,39,83.98101663675538,66.7,Solo,No,4,Urban,No,Yes,17
-S0131,Bob,Jones,Male,18,2nd,Engineering,54.3,18,53.81196089867822,74.6,Solo,Yes,3,Urban,No,Yes,6
-S0132,Mary,Miller,Male,25,1st,Statistics,61.9,39,63.7351907523946,61.1,Online,Yes,1,Urban,Yes,Yes,8
-S0133,John,Jones,Male,22,1st,Computer Science,58.9,24,90.34827454419968,50.0,Solo,Yes,4,Rural,Yes,Yes,14
-S0134,Mary,Davis,Female,23,2nd,Business,63.1,17,72.98324352013306,70.0,Solo,No,3,Urban,No,No,11
-S0135,Grace,Williams,Female,24,3rd,Engineering,65.6,12,77.32885710161474,59.9,Group,No,4,Rural,No,Yes,21
-S0136,Mary,Brown,Female,20,3rd,Computer Science,70.3,24,71.64080011047346,55.5,Group,Yes,3,Rural,No,Yes,24
-S0137,John,Johnson,Male,20,1st,Engineering,64.3,37,52.194997132150256,60.0,Solo,Yes,4,Urban,No,Yes,10
-S0138,John,Williams,Female,25,1st,Statistics,69.9,30,58.2874889910078,63.5,Solo,No,3,Rural,Yes,Yes,23
-S0139,Grace,Jones,Male,20,3rd,Computer Science,65.6,25,72.27708193709455,60.2,Group,Yes,1,Urban,Yes,Yes,9
-S0140,John,Miller,Female,23,4th,Statistics,45.2,13,60.459273270396395,47.4,Online,Yes,4,Rural,No,No,14
-S0141,Daniel,Smith,Male,25,2nd,Engineering,55.6,28,52.49895143298394,72.2,Online,No,4,Urban,Yes,Yes,13
-S0142,John,Jones,Male,23,1st,Engineering,63.6,21,92.18248320259119,75.2,Online,Yes,4,Rural,Yes,Yes,17
-S0143,Bob,Miller,Male,22,1st,Statistics,52.9,28,99.0596264582058,70.2,Online,Yes,4,Rural,No,Yes,23
-S0144,Daniel,Brown,Female,18,3rd,Business,71.0,25,89.65714369983698,55.9,Online,No,1,Urban,Yes,No,10
-S0145,Daniel,Jones,Female,22,2nd,Statistics,80.3,17,92.68924608523335,63.4,Online,No,4,Rural,Yes,No,8
-S0146,Grace,Davis,Female,22,3rd,Engineering,77.2,15,62.09885651585227,64.9,Online,Yes,2,Urban,Yes,Yes,7
-S0147,Alice,Smith,Female,23,2nd,Statistics,62.9,23,98.03134877565998,69.8,Online,No,1,Urban,No,Yes,7
-S0148,Alice,Miller,Male,25,2nd,Business,79.9,15,59.84628522267142,70.3,Group,Yes,2,Urban,No,No,8
-S0149,John,Miller,Female,25,2nd,Statistics,66.5,17,97.57149051809162,59.1,Online,Yes,4,Urban,Yes,No,9
-S0150,Daniel,Miller,Female,20,1st,Business,61.6,5,99.74096469829755,65.7,Online,Yes,3,Urban,No,No,12
-S0151,Alice,Brown,Male,19,4th,Business,58.9,23,85.58614028730244,68.7,Online,No,2,Rural,No,Yes,20
-S0152,Alice,Jones,Male,18,3rd,Statistics,62.0,16,99.0571865895911,76.6,Solo,No,4,Rural,No,Yes,7
-S0153,John,Brown,Male,23,4th,Statistics,61.1,12,78.47698897835518,70.6,Group,Yes,2,Rural,Yes,No,16
-S0154,Alice,Johnson,Female,20,3rd,Computer Science,66.7,12,62.97708915880452,71.3,Group,Yes,4,Urban,Yes,Yes,12
-S0155,Mary,Johnson,Male,24,2nd,Engineering,66.6,16,71.84979428328104,65.7,Group,No,4,Rural,No,No,17
-S0156,Jane,Jones,Male,19,1st,Business,65.0,37,79.6780467689393,76.3,Online,No,4,Rural,Yes,No,8
-S0157,Grace,Davis,Male,19,4th,Computer Science,69.4,30,53.65407810135075,68.3,Online,No,3,Rural,Yes,No,18
-S0158,Jane,Brown,Female,23,1st,Statistics,76.9,32,81.1171632308623,58.1,Solo,Yes,2,Rural,Yes,Yes,18
-S0159,John,Smith,Male,21,3rd,Engineering,74.5,9,99.05889183811473,76.2,Group,No,1,Rural,Yes,No,17
-S0160,Bob,Miller,Female,18,1st,Computer Science,50.2,12,59.50538248918638,70.6,Online,No,1,Urban,Yes,No,10
-S0161,Grace,Miller,Female,19,1st,Business,39.5,29,89.62975581441916,61.5,Group,Yes,1,Urban,No,Yes,21
-S0162,John,Jones,Male,23,4th,Computer Science,74.3,31,95.39493968898097,61.2,Solo,Yes,1,Rural,Yes,No,8
-S0163,Daniel,Davis,Male,23,2nd,Business,51.3,27,97.18507964101104,67.4,Solo,Yes,4,Urban,Yes,Yes,12
-S0164,Bob,Johnson,Female,20,1st,Statistics,62.8,34,98.00678022027236,68.7,Solo,No,2,Urban,Yes,No,21
-S0165,Jane,Johnson,Male,24,2nd,Engineering,53.3,27,76.0729819360736,66.6,Group,Yes,2,Rural,No,Yes,7
-S0166,John,Miller,Male,21,3rd,Engineering,47.0,24,98.86539539957519,67.5,Online,Yes,3,Rural,No,No,21
-S0167,Daniel,Jones,Female,18,1st,Engineering,70.4,22,87.86551035672194,78.6,Online,Yes,2,Urban,No,No,13
-S0168,Grace,Brown,Female,25,4th,Statistics,72.6,22,58.083571811848095,73.6,Solo,Yes,2,Rural,Yes,No,6
-S0169,Grace,Johnson,Male,22,3rd,Business,59.2,6,73.8450053233985,66.5,Online,No,2,Urban,No,No,17
-S0170,Peter,Brown,Female,24,3rd,Statistics,39.1,8,85.9165587686002,72.5,Solo,Yes,3,Urban,No,No,24
-S0171,Daniel,Davis,Male,24,4th,Engineering,59.5,34,62.36701579095417,56.7,Group,No,1,Rural,No,Yes,6
-S0172,Mary,Johnson,Male,20,1st,Statistics,68.9,37,82.03075917744437,68.2,Solo,No,2,Urban,No,Yes,24
-S0173,Alice,Johnson,Male,25,1st,Statistics,50.2,22,83.33002395233096,79.5,Group,No,3,Urban,Yes,No,15
-S0174,Bob,Williams,Female,19,3rd,Statistics,66.8,23,58.13498719042829,63.3,Solo,Yes,3,Urban,No,No,19
-S0175,Daniel,Johnson,Male,19,1st,Business,64.8,32,78.25426562263782,58.2,Online,No,4,Rural,No,No,15
-S0176,Peter,Smith,Male,20,2nd,Computer Science,70.8,24,88.58134554893039,59.8,Online,Yes,3,Rural,Yes,Yes,7
-S0177,Alice,Jones,Male,23,4th,Computer Science,66.2,37,74.9447832267971,56.3,Solo,Yes,1,Rural,Yes,Yes,7
-S0178,Alice,Jones,Female,19,2nd,Statistics,55.3,16,50.60515583880537,58.7,Online,Yes,2,Rural,No,No,16
-S0179,John,Brown,Female,21,1st,Computer Science,77.0,19,50.45192345396461,62.0,Online,No,3,Urban,Yes,Yes,9
-S0180,Alice,Davis,Female,18,3rd,Computer Science,63.4,6,67.85146719850061,53.8,Online,Yes,1,Rural,No,No,24
-S0181,Mary,Johnson,Female,24,4th,Statistics,64.7,33,96.30970342158909,65.1,Group,Yes,3,Rural,Yes,No,11
-S0182,Grace,Smith,Female,24,1st,Statistics,55.7,14,61.43383898018044,72.2,Online,Yes,3,Rural,Yes,No,11
-S0183,Peter,Brown,Male,21,1st,Engineering,60.6,6,81.71818444358436,57.7,Group,No,3,Rural,No,Yes,17
-S0184,Alice,Williams,Female,25,3rd,Computer Science,56.2,15,61.103793534666025,77.2,Solo,No,3,Urban,Yes,No,13
-S0185,John,Brown,Female,19,3rd,Business,63.3,17,66.08349948297743,69.1,Online,No,3,Urban,No,No,17
-S0186,Mary,Brown,Female,24,2nd,Statistics,82.1,14,92.4021044800742,73.2,Online,Yes,1,Urban,Yes,No,16
-S0187,Jane,Johnson,Male,22,4th,Engineering,51.3,18,86.44307211349735,59.7,Online,No,2,Rural,No,Yes,17
-S0188,Grace,Williams,Female,25,4th,Business,48.9,22,54.76996386566053,71.8,Solo,Yes,2,Rural,Yes,Yes,14
-S0189,Grace,Brown,Female,18,3rd,Computer Science,79.7,13,71.43510104932167,56.3,Group,Yes,2,Urban,Yes,Yes,5
-S0190,Peter,Smith,Male,18,2nd,Engineering,62.9,32,51.458488182263224,72.1,Group,No,2,Rural,Yes,No,12
-S0191,Grace,Smith,Female,24,4th,Statistics,58.3,7,74.04450733015045,66.4,Online,Yes,1,Rural,Yes,Yes,20
-S0192,Alice,Jones,Male,20,3rd,Business,75.4,24,83.1217005850534,69.4,Solo,No,4,Urban,Yes,No,17
-S0193,John,Williams,Male,25,1st,Statistics,58.9,10,55.92513117990758,55.6,Solo,Yes,4,Urban,No,Yes,7
-S0194,Grace,Williams,Male,24,4th,Computer Science,83.3,31,64.44424694545829,57.8,Solo,No,1,Rural,Yes,No,7
-S0195,Grace,Jones,Male,20,2nd,Business,71.8,6,69.89183127510785,69.8,Solo,Yes,1,Rural,No,Yes,9
-S0196,Jane,Brown,Male,24,2nd,Computer Science,60.1,33,95.97655123280248,57.4,Solo,Yes,3,Rural,No,No,15
-S0197,Jane,Williams,Female,22,2nd,Computer Science,86.6,7,99.66275077114821,68.7,Group,Yes,3,Urban,No,Yes,11
-S0198,Bob,Smith,Male,25,1st,Engineering,58.9,20,52.24556494978079,54.1,Group,Yes,3,Urban,Yes,Yes,14
-S0199,Mary,Smith,Male,23,4th,Statistics,72.4,34,88.0503961747696,71.8,Group,Yes,2,Urban,No,Yes,14
-S0200,Alice,Johnson,Female,18,4th,Business,68.0,6,68.58620332011716,55.1,Online,No,3,Urban,Yes,No,24
-S0201,Grace,Williams,Male,24,1st,Computer Science,78.0,21,69.622909311474,69.4,Solo,Yes,4,Rural,No,Yes,6
-S0202,Daniel,Brown,Female,22,4th,Computer Science,80.6,16,87.71324866735114,70.0,Online,No,2,Urban,No,Yes,7
-S0203,Grace,Jones,Female,20,1st,Business,65.3,39,95.92132160727044,59.4,Solo,No,3,Urban,No,Yes,12
-S0204,John,Jones,Female,20,1st,Computer Science,57.5,5,97.54642972512741,69.7,Group,No,2,Rural,No,Yes,15
-S0205,Bob,Brown,Male,18,1st,Engineering,69.6,19,78.85612930191604,67.1,Online,Yes,4,Rural,No,No,17
-S0206,Mary,Davis,Male,21,2nd,Engineering,58.2,30,67.85605796502514,60.7,Group,Yes,3,Rural,Yes,Yes,11
-S0207,Daniel,Miller,Male,24,4th,Engineering,85.1,25,89.37745429293896,56.9,Solo,Yes,4,Urban,No,No,17
-S0208,Bob,Johnson,Female,25,1st,Engineering,66.4,35,62.55006916311501,49.3,Solo,No,4,Rural,No,No,6
-S0209,Peter,Jones,Male,19,4th,Computer Science,61.3,29,78.20370144167589,67.8,Solo,Yes,4,Rural,Yes,No,10
-S0210,Mary,Williams,Male,20,2nd,Business,66.8,27,67.92892307624366,52.5,Group,Yes,3,Urban,Yes,No,13
-S0211,Grace,Johnson,Male,25,1st,Business,51.5,28,82.8315536853938,65.8,Solo,No,1,Urban,Yes,Yes,24
-S0212,Grace,Williams,Female,25,3rd,Business,55.3,32,62.019945644675346,62.9,Group,No,3,Rural,No,No,6
-S0213,Mary,Davis,Female,23,2nd,Business,77.0,25,59.57964728674129,70.4,Online,No,4,Urban,No,No,22
-S0214,Grace,Smith,Male,25,3rd,Statistics,58.4,22,95.91195433377186,62.6,Solo,No,3,Rural,No,No,20
-S0215,Alice,Johnson,Male,25,4th,Business,54.5,39,55.09018414747685,62.4,Solo,No,4,Rural,No,No,16
-S0216,Mary,Jones,Male,23,4th,Statistics,70.4,13,75.29789538674657,70.9,Solo,No,1,Urban,No,Yes,11
-S0217,Bob,Johnson,Male,20,2nd,Statistics,76.9,34,61.04263914815044,67.7,Online,Yes,2,Rural,No,Yes,11
-S0218,Mary,Johnson,Female,25,4th,Engineering,72.2,38,51.94649816628337,67.5,Solo,No,1,Urban,Yes,No,21
-S0219,Daniel,Johnson,Female,21,3rd,Statistics,75.0,36,51.80094091457132,68.8,Group,Yes,1,Urban,Yes,No,17
-S0220,Grace,Miller,Female,21,1st,Computer Science,57.4,7,58.76108860529136,52.7,Group,Yes,2,Urban,No,No,15
-S0221,Alice,Johnson,Female,22,1st,Statistics,50.8,7,93.33851772530002,71.1,Solo,Yes,3,Rural,No,Yes,10
-S0222,Alice,Williams,Male,23,1st,Engineering,80.0,32,64.12393719885134,69.9,Solo,No,2,Urban,No,Yes,18
-S0223,Peter,Smith,Male,22,2nd,Statistics,61.8,19,97.52295852876479,56.9,Online,Yes,3,Urban,No,Yes,10
-S0224,Bob,Davis,Male,23,4th,Computer Science,62.5,27,79.08111464945968,63.0,Online,No,3,Rural,No,Yes,10
-S0225,Jane,Brown,Female,24,3rd,Computer Science,78.3,15,71.8307094884383,64.7,Online,No,4,Rural,Yes,Yes,6
-S0226,Jane,Johnson,Male,24,4th,Computer Science,70.6,36,79.00444173347273,63.9,Solo,Yes,4,Rural,Yes,No,24
-S0227,Mary,Jones,Female,25,4th,Engineering,69.6,37,75.83491926131339,67.7,Online,No,2,Rural,No,Yes,19
-S0228,Peter,Johnson,Female,19,4th,Engineering,86.7,28,87.93881268786626,76.5,Online,Yes,1,Urban,Yes,Yes,21
-S0229,John,Jones,Male,24,1st,Business,58.6,38,64.12480329864262,73.7,Group,Yes,2,Urban,No,No,12
-S0230,Mary,Williams,Male,19,3rd,Engineering,74.3,32,67.65251958001512,54.5,Online,No,3,Urban,No,Yes,9
-S0231,Peter,Jones,Male,24,3rd,Computer Science,65.6,11,94.70471512666253,70.0,Group,Yes,4,Rural,No,Yes,21
-S0232,Bob,Brown,Female,18,4th,Computer Science,67.7,8,97.32282565752027,75.6,Group,Yes,2,Rural,Yes,Yes,24
-S0233,Bob,Smith,Male,24,1st,Engineering,80.3,5,94.62791137432373,68.1,Online,Yes,2,Urban,Yes,No,5
-S0234,Bob,Jones,Female,22,1st,Statistics,70.1,5,70.97239969786568,73.7,Group,No,4,Rural,No,Yes,22
-S0235,Bob,Jones,Male,20,3rd,Engineering,70.4,24,89.01827515034408,81.1,Solo,Yes,4,Rural,Yes,No,19
-S0236,Bob,Smith,Female,25,1st,Engineering,75.7,23,73.81678666505493,73.2,Solo,No,4,Urban,Yes,No,9
-S0237,Peter,Brown,Female,22,1st,Computer Science,61.4,33,74.87699260730511,67.0,Online,No,3,Urban,No,Yes,11
-S0238,Peter,Johnson,Male,20,1st,Business,56.6,14,60.234005452864196,73.4,Solo,Yes,4,Rural,Yes,Yes,22
-S0239,Alice,Jones,Female,21,2nd,Computer Science,54.6,22,79.55651516292582,66.2,Group,Yes,1,Rural,Yes,Yes,10
-S0240,Daniel,Smith,Female,22,4th,Business,45.3,32,59.306794887667394,65.2,Solo,No,2,Rural,No,Yes,9
-S0241,Jane,Williams,Male,21,3rd,Computer Science,85.6,39,66.5782349533597,62.2,Online,No,4,Urban,No,No,23
-S0242,Grace,Smith,Female,19,3rd,Engineering,54.0,35,92.75151008099675,77.5,Online,Yes,4,Urban,Yes,Yes,14
-S0243,Bob,Williams,Male,19,2nd,Computer Science,62.8,31,60.35379046054276,58.5,Group,Yes,3,Urban,No,No,19
-S0244,John,Brown,Female,18,4th,Computer Science,62.2,15,53.557914258671644,77.3,Online,No,3,Urban,Yes,No,14
-S0245,Grace,Johnson,Male,24,3rd,Computer Science,68.1,9,53.45037963064082,69.0,Solo,No,2,Urban,No,No,20
-S0246,Peter,Smith,Male,22,1st,Engineering,73.2,12,97.03922602515539,53.8,Online,No,1,Rural,No,No,16
-S0247,John,Davis,Female,21,3rd,Engineering,73.6,38,75.34602189809173,67.9,Group,No,2,Rural,No,No,22
-S0248,John,Davis,Female,20,1st,Engineering,59.2,16,70.47060359085091,48.2,Online,No,4,Rural,No,Yes,5
-S0249,John,Miller,Female,19,2nd,Engineering,63.3,5,90.54392905039592,70.0,Solo,Yes,1,Urban,Yes,No,20
-S0250,Alice,Jones,Female,24,1st,Business,67.8,35,91.79129639552579,72.1,Group,No,1,Urban,No,No,10
-S0251,Peter,Brown,Female,19,3rd,Business,62.5,8,66.60955165578022,60.3,Solo,No,1,Urban,No,Yes,7
-S0252,John,Smith,Male,20,3rd,Statistics,81.1,9,84.68090287368976,66.0,Group,Yes,1,Rural,No,Yes,6
-S0253,Bob,Davis,Female,24,3rd,Engineering,69.9,34,88.55614079259433,80.6,Online,Yes,2,Urban,Yes,No,6
-S0254,Mary,Jones,Male,24,2nd,Business,72.3,28,82.73253434329773,61.0,Group,No,3,Urban,Yes,No,17
-S0255,John,Davis,Male,21,2nd,Computer Science,71.6,7,57.57975374000497,56.5,Group,No,3,Rural,No,Yes,13
-S0256,Alice,Smith,Female,21,4th,Engineering,76.7,15,93.79415417585285,76.9,Online,Yes,4,Urban,No,No,20
-S0257,Grace,Williams,Male,22,3rd,Statistics,66.8,8,76.95472763680044,80.7,Solo,No,3,Rural,No,Yes,9
-S0258,Peter,Smith,Male,22,1st,Statistics,52.0,30,64.12362131850018,65.0,Online,No,3,Urban,No,Yes,11
-S0259,Daniel,Miller,Male,23,2nd,Statistics,69.0,31,71.2614092718847,73.1,Group,Yes,3,Urban,No,No,17
-S0260,Alice,Smith,Male,25,3rd,Computer Science,58.5,31,51.87855451994537,75.7,Online,No,3,Rural,No,Yes,24
-S0261,John,Smith,Female,23,3rd,Business,59.7,10,56.39334006112088,59.1,Group,Yes,4,Rural,Yes,No,17
-S0262,Peter,Miller,Male,18,2nd,Computer Science,70.9,19,88.27733752579304,61.1,Online,Yes,2,Rural,No,No,11
-S0263,Mary,Brown,Female,19,4th,Engineering,77.4,34,50.00058173776831,74.8,Online,Yes,1,Rural,No,No,14
-S0264,John,Smith,Female,22,2nd,Statistics,65.2,39,70.82829142411461,78.5,Solo,Yes,3,Rural,No,Yes,19
-S0265,Alice,Miller,Male,21,2nd,Computer Science,68.1,27,76.12550905427942,69.5,Group,No,2,Rural,No,No,10
-S0266,Jane,Jones,Female,20,1st,Computer Science,82.0,10,52.731721000048616,58.0,Solo,Yes,3,Urban,No,Yes,9
-S0267,Bob,Williams,Female,21,1st,Business,67.4,8,98.65390814861664,80.9,Group,No,3,Urban,No,No,6
-S0268,Daniel,Williams,Female,19,4th,Business,91.0,22,61.3062665624836,60.8,Online,No,1,Rural,Yes,No,19
-S0269,Grace,Smith,Male,23,3rd,Statistics,70.7,13,65.20993598181404,62.3,Group,No,1,Urban,Yes,Yes,20
-S0270,Alice,Brown,Female,21,2nd,Computer Science,47.4,33,65.19712561275136,67.7,Solo,No,1,Rural,Yes,No,23
-S0271,Peter,Brown,Female,25,4th,Computer Science,72.5,17,61.520833105867496,77.4,Solo,No,3,Urban,Yes,No,13
-S0272,Daniel,Jones,Female,18,1st,Business,68.8,21,50.07369110431557,71.8,Solo,Yes,3,Rural,Yes,Yes,23
-S0273,Daniel,Smith,Male,19,2nd,Computer Science,77.9,36,86.46723970439982,68.3,Group,Yes,3,Urban,Yes,Yes,11
-S0274,Daniel,Williams,Female,23,3rd,Computer Science,71.7,26,98.34227498996427,68.7,Solo,Yes,1,Urban,No,Yes,8
-S0275,John,Brown,Male,25,1st,Computer Science,63.6,8,61.21467416425225,65.3,Solo,Yes,4,Urban,No,No,7
-S0276,Bob,Smith,Male,20,1st,Business,52.8,9,83.15235959017113,69.5,Solo,No,2,Urban,No,Yes,24
-S0277,John,Davis,Male,23,1st,Statistics,62.9,17,87.09481634793576,44.8,Online,Yes,4,Urban,No,Yes,15
-S0278,Peter,Brown,Male,24,4th,Engineering,56.5,38,92.42126895452623,62.6,Online,No,3,Rural,No,No,5
-S0279,John,Miller,Male,25,3rd,Statistics,59.2,26,71.13145985068046,66.9,Group,No,3,Rural,No,Yes,10
-S0280,Jane,Davis,Male,25,2nd,Engineering,70.9,27,65.14654528202146,55.8,Group,Yes,4,Rural,Yes,No,15
-S0281,Bob,Brown,Female,18,4th,Computer Science,81.7,7,66.26475670115155,68.1,Solo,Yes,3,Urban,No,No,5
-S0282,Bob,Williams,Male,19,4th,Statistics,68.9,38,85.63106665492563,63.4,Online,Yes,2,Rural,Yes,Yes,11
-S0283,Peter,Johnson,Female,20,4th,Engineering,53.0,36,90.8389733252818,79.0,Solo,Yes,3,Urban,Yes,No,10
-S0284,Grace,Davis,Female,18,1st,Business,69.4,25,59.08069838783013,77.6,Solo,No,2,Urban,No,Yes,18
-S0285,Jane,Jones,Male,23,3rd,Business,77.0,25,68.54705040788826,61.3,Online,No,4,Urban,No,Yes,6
-S0286,Alice,Jones,Female,18,4th,Statistics,58.9,15,95.0970098374575,63.8,Online,Yes,4,Rural,No,Yes,8
-S0287,John,Williams,Female,25,2nd,Statistics,63.7,8,90.33467598473696,64.4,Online,No,3,Urban,No,Yes,15
-S0288,Mary,Brown,Female,19,3rd,Computer Science,65.1,5,99.2429201381238,61.4,Group,No,2,Rural,No,No,19
-S0289,John,Smith,Female,22,2nd,Statistics,57.2,32,87.71241298410403,66.6,Group,No,3,Rural,No,No,22
-S0290,Daniel,Brown,Male,18,3rd,Computer Science,71.5,28,69.65976005139612,58.9,Solo,Yes,1,Urban,No,Yes,5
-S0291,John,Williams,Female,24,2nd,Computer Science,63.8,39,79.53189169973189,56.0,Group,No,1,Urban,Yes,Yes,7
-S0292,Alice,Jones,Male,18,1st,Business,69.2,17,83.05071271236602,70.0,Online,Yes,1,Rural,No,No,7
-S0293,John,Brown,Female,23,4th,Business,56.1,38,53.922790815856196,70.0,Online,Yes,1,Rural,No,Yes,11
-S0294,Jane,Jones,Female,23,2nd,Engineering,60.6,15,77.22484795519325,58.6,Group,No,3,Rural,Yes,No,5
-S0295,Jane,Davis,Male,20,3rd,Business,72.2,21,85.46604142363049,72.2,Solo,No,1,Rural,No,Yes,15
-S0296,Bob,Smith,Female,23,4th,Business,61.3,39,58.366065200053015,59.9,Solo,Yes,2,Rural,No,No,10
-S0297,Peter,Davis,Female,21,4th,Statistics,82.3,22,89.03158587127785,67.0,Group,No,4,Rural,Yes,No,24
-S0298,Grace,Jones,Female,19,3rd,Business,61.0,26,79.18863902570558,71.6,Solo,No,4,Urban,No,No,7
-S0299,Mary,Jones,Male,19,2nd,Engineering,67.2,28,97.61108928487974,64.7,Solo,Yes,1,Rural,No,Yes,23
-S0300,Daniel,Johnson,Female,22,1st,Statistics,74.3,23,52.12111491034459,68.6,Solo,Yes,1,Rural,No,Yes,6
-S0301,John,Johnson,Male,22,1st,Engineering,50.8,25,63.266306877773346,60.9,Online,Yes,1,Rural,No,Yes,22
-S0302,John,Davis,Female,19,2nd,Business,47.4,12,80.0776939649912,63.4,Online,Yes,3,Rural,No,Yes,16
-S0303,Alice,Miller,Male,24,4th,Engineering,49.7,32,64.82799561029654,63.4,Group,No,4,Urban,No,Yes,14
-S0304,Peter,Davis,Male,22,4th,Statistics,77.6,9,85.72120820356211,59.0,Online,No,1,Urban,Yes,No,9
-S0305,Jane,Johnson,Female,20,4th,Computer Science,59.5,21,87.95026412609656,63.6,Solo,Yes,2,Rural,No,No,13
-S0306,Mary,Jones,Female,23,4th,Engineering,90.6,23,55.125798203323725,52.6,Online,Yes,1,Rural,No,No,6
-S0307,Bob,Williams,Male,19,2nd,Engineering,59.4,31,75.69272321033839,61.1,Group,Yes,4,Rural,Yes,No,6
-S0308,Jane,Davis,Male,25,4th,Statistics,66.8,38,75.4445277795528,62.7,Online,No,1,Urban,Yes,No,10
-S0309,Daniel,Jones,Female,22,3rd,Statistics,80.4,15,68.46403851077706,63.0,Solo,Yes,4,Urban,No,No,14
-S0310,Peter,Williams,Male,19,4th,Engineering,85.1,16,96.6462431284836,63.1,Solo,No,1,Urban,Yes,No,22
-S0311,Daniel,Williams,Female,21,1st,Business,85.6,25,91.37531599366106,64.5,Group,Yes,2,Urban,No,Yes,16
-S0312,Grace,Johnson,Female,18,4th,Engineering,77.1,15,84.86046909548185,68.8,Online,Yes,1,Urban,No,No,8
-S0313,Bob,Davis,Female,23,2nd,Statistics,75.2,32,85.71633178674988,72.0,Online,Yes,2,Urban,Yes,Yes,21
-S0314,Grace,Brown,Female,19,1st,Computer Science,70.9,9,73.08580719065596,59.8,Online,No,2,Rural,No,No,19
-S0315,Alice,Smith,Male,18,2nd,Computer Science,72.8,21,96.0497260548288,55.4,Solo,No,1,Urban,No,No,10
-S0316,Daniel,Johnson,Female,22,2nd,Business,59.5,24,84.72977136266427,56.7,Group,No,2,Urban,Yes,Yes,20
-S0317,Alice,Johnson,Male,18,1st,Engineering,56.8,16,86.44905308279081,61.1,Online,Yes,3,Rural,Yes,No,21
-S0318,John,Brown,Female,23,2nd,Computer Science,65.0,10,93.08454518936726,62.2,Solo,No,1,Urban,Yes,Yes,7
-S0319,Grace,Smith,Male,19,2nd,Engineering,63.3,21,63.70357946710955,58.8,Solo,No,1,Rural,Yes,No,14
-S0320,Peter,Jones,Female,21,4th,Statistics,60.5,23,90.35354519333515,54.6,Solo,Yes,2,Urban,No,Yes,9
-S0321,Daniel,Miller,Male,24,3rd,Computer Science,72.0,30,59.7620301478246,61.4,Online,Yes,2,Rural,Yes,No,18
-S0322,Mary,Davis,Male,22,2nd,Business,74.6,36,67.26709761224438,66.5,Online,No,1,Rural,Yes,Yes,17
-S0323,Bob,Miller,Female,19,2nd,Statistics,65.9,10,66.78052271349213,69.8,Online,No,3,Rural,Yes,Yes,10
-S0324,Jane,Jones,Female,23,2nd,Business,79.8,15,98.92627341945703,60.5,Online,No,2,Rural,Yes,No,16
-S0325,Peter,Johnson,Female,22,4th,Statistics,53.6,37,92.82686118739633,61.7,Online,No,2,Rural,Yes,No,12
-S0326,Peter,Smith,Female,20,3rd,Computer Science,63.1,28,85.05849307951298,57.6,Online,Yes,4,Urban,No,Yes,9
-S0327,Alice,Johnson,Male,18,1st,Business,57.8,27,86.35283808076952,64.7,Online,Yes,3,Urban,Yes,No,19
-S0328,Grace,Williams,Female,24,4th,Business,46.3,19,78.10363972012856,58.2,Online,Yes,3,Rural,No,Yes,20
-S0329,Daniel,Johnson,Male,23,4th,Statistics,64.2,31,97.35453335542596,69.6,Online,No,1,Rural,Yes,No,5
-S0330,Daniel,Johnson,Male,20,3rd,Business,63.8,15,74.81293764411808,50.7,Solo,No,3,Rural,Yes,Yes,20
-S0331,John,Jones,Female,25,3rd,Statistics,80.1,21,69.02588549349473,62.1,Online,Yes,1,Urban,Yes,No,9
-S0332,John,Jones,Male,19,4th,Statistics,71.3,18,58.15176684657955,67.4,Group,Yes,4,Rural,Yes,Yes,7
-S0333,Bob,Jones,Male,21,1st,Statistics,54.8,31,89.31028261305289,66.5,Solo,No,3,Rural,Yes,No,24
-S0334,Alice,Miller,Male,22,4th,Statistics,83.5,22,86.72219660377957,86.5,Online,No,2,Rural,Yes,Yes,19
-S0335,Peter,Williams,Male,18,3rd,Computer Science,77.2,32,69.21775192620674,67.8,Group,Yes,4,Rural,Yes,Yes,17
-S0336,Daniel,Jones,Female,22,1st,Statistics,70.8,8,51.25967069796147,57.0,Online,Yes,1,Urban,Yes,No,20
-S0337,Mary,Smith,Female,24,3rd,Engineering,62.7,11,91.94986638590053,64.2,Group,Yes,4,Rural,No,No,15
-S0338,Alice,Miller,Female,19,1st,Business,55.4,39,50.57089917270368,50.8,Group,No,1,Rural,Yes,Yes,6
-S0339,Bob,Brown,Female,22,2nd,Engineering,61.3,13,85.18498898145255,64.4,Group,No,4,Urban,No,Yes,10
-S0340,Bob,Smith,Male,18,3rd,Computer Science,75.9,12,98.51285548630285,58.3,Group,No,1,Rural,Yes,Yes,10
-S0341,Alice,Davis,Male,19,3rd,Engineering,83.8,21,71.88306640741017,72.3,Solo,No,3,Rural,No,Yes,18
-S0342,Bob,Davis,Female,22,4th,Business,80.4,21,61.74867024979764,60.6,Solo,No,2,Urban,Yes,No,15
-S0343,Alice,Smith,Female,21,3rd,Engineering,60.1,37,85.24355050216909,64.1,Group,No,1,Urban,Yes,Yes,12
-S0344,Jane,Jones,Female,23,3rd,Computer Science,53.8,36,90.85640710077925,59.9,Online,Yes,4,Urban,Yes,Yes,12
-S0345,Alice,Brown,Male,19,2nd,Statistics,66.4,12,77.32151580389237,78.9,Group,Yes,1,Rural,No,Yes,5
-S0346,Grace,Brown,Female,23,3rd,Engineering,47.3,23,98.35176376280731,62.4,Solo,No,1,Rural,No,No,11
-S0347,Alice,Miller,Female,25,2nd,Computer Science,68.2,7,52.583436082898054,79.7,Online,Yes,1,Urban,No,Yes,10
-S0348,Bob,Brown,Female,19,2nd,Computer Science,63.5,9,75.2397799152264,71.5,Solo,No,4,Urban,No,No,12
-S0349,Daniel,Davis,Male,21,2nd,Business,60.3,17,85.9226973661275,68.9,Solo,Yes,2,Urban,Yes,No,23
-S0350,Grace,Williams,Male,23,2nd,Business,49.1,35,93.13202355745895,67.9,Online,No,3,Rural,Yes,No,24
-S0351,Bob,Jones,Male,20,1st,Engineering,70.1,20,58.9627805953895,68.2,Group,Yes,2,Rural,Yes,No,12
-S0352,John,Brown,Male,18,4th,Statistics,59.7,36,90.00017408818407,49.6,Group,Yes,1,Urban,No,No,18
-S0353,John,Miller,Male,20,1st,Computer Science,53.3,26,77.63535378592726,62.8,Group,No,4,Rural,Yes,No,22
-S0354,Daniel,Davis,Male,22,3rd,Engineering,36.3,33,69.82768409949816,71.8,Group,No,2,Urban,No,No,20
-S0355,Daniel,Williams,Male,21,1st,Computer Science,64.7,26,56.58575142895468,64.6,Online,Yes,1,Rural,No,Yes,13
-S0356,Grace,Johnson,Male,20,1st,Computer Science,82.7,7,93.26478794544562,53.8,Online,Yes,3,Rural,No,Yes,19
-S0357,Jane,Johnson,Female,19,3rd,Statistics,81.6,14,57.863660408985766,64.6,Online,No,3,Rural,No,No,14
-S0358,Daniel,Williams,Female,22,3rd,Statistics,60.4,25,65.48939296045496,78.6,Solo,Yes,3,Rural,No,Yes,20
-S0359,John,Davis,Male,22,3rd,Engineering,59.0,20,64.50227659812184,75.0,Online,No,1,Urban,Yes,Yes,8
-S0360,Alice,Miller,Male,20,1st,Statistics,69.7,16,93.57070170954272,64.5,Group,No,4,Rural,No,No,24
-S0361,Bob,Williams,Female,25,1st,Statistics,55.0,6,83.63514971044489,72.6,Solo,Yes,2,Rural,No,Yes,17
-S0362,John,Jones,Male,20,3rd,Engineering,68.0,28,89.83406985956861,62.1,Group,No,3,Urban,Yes,No,9
-S0363,John,Jones,Male,25,4th,Statistics,72.7,39,62.52339493962495,51.4,Group,Yes,1,Rural,No,Yes,11
-S0364,Jane,Johnson,Male,21,4th,Business,77.3,34,81.24370498034995,57.6,Online,Yes,1,Urban,No,No,13
-S0365,Grace,Brown,Female,18,2nd,Computer Science,64.0,34,78.58729915718743,77.5,Online,No,2,Urban,Yes,No,12
-S0366,Grace,Miller,Female,20,3rd,Computer Science,63.0,39,91.64151883941355,62.8,Group,Yes,3,Rural,Yes,Yes,20
-S0367,Peter,Johnson,Female,24,2nd,Computer Science,56.2,23,95.30435302406303,63.1,Group,No,1,Rural,Yes,Yes,10
-S0368,Jane,Brown,Female,25,4th,Computer Science,56.7,12,50.60783857386934,62.6,Solo,No,2,Urban,No,No,20
-S0369,Alice,Brown,Female,20,2nd,Engineering,62.7,30,83.70099595293964,80.2,Online,No,4,Urban,Yes,No,10
-S0370,Grace,Jones,Male,23,3rd,Computer Science,68.7,11,52.59178995598645,78.0,Solo,Yes,4,Urban,Yes,No,18
-S0371,Bob,Davis,Female,19,3rd,Computer Science,74.1,34,77.44293325386779,82.8,Solo,No,4,Rural,Yes,Yes,5
-S0372,Daniel,Smith,Male,24,3rd,Computer Science,57.0,11,64.38163645218391,63.7,Solo,Yes,3,Urban,No,Yes,13
-S0373,Jane,Davis,Male,24,1st,Computer Science,79.9,7,65.33882997610706,67.4,Group,No,2,Urban,Yes,Yes,17
-S0374,Daniel,Smith,Female,25,2nd,Business,62.3,5,67.64792517261783,52.9,Solo,No,2,Urban,No,Yes,23
-S0375,John,Williams,Female,23,4th,Computer Science,64.8,29,81.0646224524805,76.8,Solo,No,1,Rural,No,No,21
-S0376,Bob,Jones,Male,23,4th,Business,57.5,5,66.70249828343846,55.7,Group,Yes,1,Urban,Yes,No,15
-S0377,Bob,Brown,Male,22,4th,Engineering,40.8,19,86.63495252951401,66.7,Online,Yes,1,Rural,No,No,12
-S0378,John,Miller,Male,25,1st,Statistics,73.8,17,70.22636927869348,56.2,Online,No,2,Rural,No,No,9
-S0379,Jane,Smith,Female,18,1st,Computer Science,72.4,12,53.41766001549793,60.3,Solo,No,1,Urban,Yes,Yes,14
-S0380,John,Davis,Female,19,3rd,Statistics,62.2,9,89.18799212420537,58.3,Group,Yes,2,Rural,No,No,11
-S0381,Daniel,Brown,Female,21,4th,Statistics,65.7,13,64.2879162296353,60.1,Online,Yes,2,Urban,Yes,No,14
-S0382,Peter,Smith,Female,24,1st,Engineering,70.2,5,71.63834397996314,60.7,Solo,Yes,4,Rural,No,Yes,8
-S0383,Bob,Smith,Female,21,3rd,Statistics,49.4,39,84.27219416109509,60.6,Solo,No,1,Rural,No,Yes,13
-S0384,Mary,Smith,Male,20,4th,Business,59.7,6,66.6228078574356,71.7,Group,Yes,4,Urban,Yes,No,18
-S0385,Mary,Miller,Female,20,2nd,Statistics,72.9,27,52.82928280733578,56.2,Solo,No,3,Urban,Yes,Yes,6
-S0386,Daniel,Jones,Male,21,3rd,Statistics,52.5,13,68.69605235064068,66.8,Online,Yes,3,Urban,No,No,13
-S0387,Alice,Miller,Male,20,1st,Statistics,67.9,38,97.22242913471517,74.7,Group,No,3,Rural,No,Yes,5
-S0388,Grace,Johnson,Male,18,1st,Computer Science,51.4,18,82.08671986492791,60.9,Online,No,2,Rural,Yes,Yes,14
-S0389,John,Brown,Female,23,3rd,Computer Science,69.7,8,83.57395743336035,59.3,Online,No,2,Urban,No,No,14
-S0390,John,Jones,Female,20,3rd,Business,64.6,34,81.61410768188199,63.2,Online,Yes,2,Urban,No,Yes,24
-S0391,Alice,Jones,Female,22,1st,Business,48.8,35,59.94960694797184,74.4,Solo,Yes,1,Rural,No,No,7
-S0392,Alice,Jones,Male,20,2nd,Computer Science,76.6,15,70.916693205114,66.6,Solo,Yes,4,Rural,No,Yes,10
-S0393,Daniel,Davis,Male,19,4th,Business,57.7,39,87.5469899181659,60.8,Online,No,2,Rural,Yes,Yes,10
-S0394,Daniel,Jones,Male,18,2nd,Computer Science,56.9,12,55.06864487765796,68.9,Online,No,4,Urban,Yes,Yes,6
-S0395,Alice,Miller,Male,19,3rd,Engineering,67.0,7,63.892638804485614,56.2,Group,Yes,4,Rural,Yes,Yes,22
-S0396,Bob,Jones,Male,19,2nd,Statistics,76.5,18,63.81595542329268,70.5,Group,No,4,Urban,Yes,Yes,6
-S0397,Daniel,Williams,Male,22,1st,Statistics,54.8,17,71.6009463797253,68.3,Solo,No,1,Rural,Yes,No,16
-S0398,Peter,Brown,Female,18,3rd,Business,65.6,36,99.01843704710924,62.5,Solo,No,1,Rural,Yes,Yes,9
-S0399,Daniel,Jones,Female,18,4th,Computer Science,69.3,38,53.3751273341911,58.3,Group,Yes,3,Urban,No,No,24
-S0400,John,Brown,Female,25,1st,Computer Science,71.9,23,75.93504971902975,57.9,Online,No,3,Urban,Yes,Yes,11
-S0401,Daniel,Williams,Female,18,1st,Business,66.8,20,58.96823410061052,69.3,Solo,Yes,4,Urban,No,No,20
-S0402,Bob,Williams,Male,18,4th,Computer Science,61.3,6,98.53382727048721,74.8,Online,Yes,3,Rural,No,Yes,24
-S0403,Alice,Brown,Male,18,4th,Engineering,56.7,21,55.66517523637321,59.9,Group,Yes,4,Rural,No,No,5
-S0404,John,Smith,Female,22,2nd,Statistics,65.9,38,70.18005011807956,68.7,Solo,Yes,1,Rural,Yes,No,5
-S0405,Daniel,Johnson,Male,20,3rd,Business,54.3,20,86.89424924173031,48.3,Solo,Yes,1,Urban,No,Yes,21
-S0406,Bob,Davis,Female,25,4th,Business,35.8,6,85.22772140137226,60.3,Group,No,1,Rural,Yes,Yes,5
-S0407,Peter,Smith,Female,19,4th,Computer Science,69.4,6,71.13643184469662,64.8,Solo,Yes,2,Urban,No,Yes,24
-S0408,Daniel,Smith,Female,18,3rd,Business,74.0,30,67.32620839763591,57.7,Group,Yes,4,Urban,No,No,17
-S0409,Bob,Miller,Male,24,4th,Engineering,41.4,17,69.88061892764352,57.5,Solo,Yes,1,Urban,Yes,No,13
-S0410,Peter,Davis,Female,20,4th,Computer Science,54.9,35,63.213813157931966,59.7,Group,No,4,Rural,No,Yes,19
-S0411,Alice,Davis,Female,20,2nd,Computer Science,71.2,38,60.26664693533999,67.3,Solo,No,3,Rural,No,Yes,7
-S0412,Daniel,Smith,Female,19,1st,Computer Science,85.6,7,74.1519848779445,63.5,Online,No,3,Urban,No,No,18
-S0413,Peter,Jones,Male,22,1st,Computer Science,65.2,12,63.42668780338037,47.1,Online,No,1,Rural,No,No,15
-S0414,John,Miller,Male,21,1st,Engineering,57.7,27,64.3730832448625,48.0,Online,Yes,4,Urban,Yes,Yes,16
-S0415,Alice,Miller,Female,21,1st,Computer Science,63.2,18,82.83780317372785,60.1,Solo,Yes,1,Urban,No,No,17
-S0416,John,Williams,Male,20,4th,Business,78.7,31,98.42686658499461,68.7,Solo,No,3,Rural,No,Yes,17
-S0417,Mary,Davis,Male,23,3rd,Engineering,58.5,33,80.18186002796875,43.0,Online,No,1,Urban,Yes,Yes,5
-S0418,Jane,Smith,Male,23,3rd,Statistics,57.0,5,53.84897335324831,61.0,Online,No,4,Urban,No,Yes,14
-S0419,Daniel,Williams,Male,19,2nd,Statistics,60.2,21,53.77918069270335,60.8,Group,No,3,Rural,No,No,7
-S0420,Peter,Brown,Male,21,2nd,Business,55.5,34,97.5711610422783,76.1,Group,Yes,2,Urban,No,No,8
-S0421,Jane,Johnson,Male,20,4th,Business,66.2,17,64.86453951536669,61.9,Group,No,3,Urban,No,No,20
-S0422,Jane,Miller,Male,22,3rd,Engineering,81.2,25,54.60334930412377,68.1,Online,No,2,Urban,Yes,No,12
-S0423,Peter,Brown,Male,21,3rd,Statistics,68.2,23,79.95222935751907,66.1,Online,No,1,Urban,No,Yes,20
-S0424,Alice,Brown,Male,20,1st,Statistics,62.5,23,81.18243891451331,48.0,Online,No,1,Urban,Yes,No,21
-S0425,Daniel,Jones,Male,20,4th,Statistics,62.1,29,82.42524100593441,71.1,Group,No,4,Urban,No,Yes,23
-S0426,Mary,Johnson,Female,18,4th,Statistics,49.4,26,63.37010139287706,66.7,Solo,No,2,Urban,No,Yes,19
-S0427,John,Brown,Female,22,1st,Statistics,73.8,35,50.75553421072375,69.1,Online,No,1,Rural,No,Yes,20
-S0428,Bob,Brown,Male,18,4th,Computer Science,64.2,21,98.25076847272359,96.4,Solo,Yes,2,Rural,Yes,No,19
-S0429,John,Johnson,Female,19,4th,Business,63.2,27,62.54465228455513,48.3,Solo,Yes,1,Urban,No,Yes,6
-S0430,Bob,Johnson,Female,18,2nd,Computer Science,96.9,36,83.80131440262738,78.8,Solo,Yes,3,Urban,No,Yes,15
-S0431,John,Brown,Male,24,3rd,Statistics,68.0,14,85.33149349393548,62.7,Group,Yes,1,Rural,Yes,No,5
-S0432,Peter,Johnson,Male,18,4th,Engineering,57.5,14,80.50037085397429,67.3,Solo,Yes,4,Rural,Yes,Yes,19
-S0433,Mary,Brown,Male,24,2nd,Engineering,60.7,12,65.64536971068242,64.6,Online,Yes,3,Rural,Yes,No,23
-S0434,Daniel,Brown,Female,21,3rd,Statistics,76.5,24,63.554812688203285,61.6,Group,No,4,Rural,Yes,No,8
-S0435,Bob,Jones,Female,23,1st,Statistics,66.1,36,79.88341413513515,60.4,Online,No,3,Rural,No,No,15
-S0436,Daniel,Smith,Male,25,2nd,Engineering,50.6,18,93.30478168058457,67.6,Online,Yes,2,Urban,No,Yes,9
-S0437,Daniel,Brown,Male,25,2nd,Computer Science,74.2,32,97.33668644616978,52.9,Group,No,4,Rural,No,No,7
-S0438,Daniel,Williams,Male,20,3rd,Computer Science,58.3,28,55.29529022018788,71.0,Online,Yes,1,Rural,No,No,17
-S0439,Grace,Miller,Female,25,1st,Statistics,83.7,19,57.74143062988599,61.7,Online,No,2,Rural,Yes,No,14
-S0440,Alice,Davis,Female,24,2nd,Computer Science,75.8,26,97.23681293915399,56.0,Group,No,1,Urban,No,No,15
-S0441,John,Smith,Female,22,4th,Engineering,60.5,34,86.82676141673963,61.4,Online,No,3,Urban,No,Yes,22
-S0442,Daniel,Smith,Female,18,4th,Computer Science,77.8,8,94.14969124148865,75.1,Solo,No,3,Urban,No,No,6
-S0443,John,Smith,Male,24,4th,Statistics,65.7,17,60.13163170676716,60.7,Online,No,1,Urban,No,Yes,11
-S0444,Daniel,Jones,Male,22,1st,Engineering,73.5,27,79.3792935554701,67.9,Solo,No,1,Urban,Yes,No,13
-S0445,Bob,Brown,Male,23,2nd,Computer Science,69.8,12,85.05697972087368,59.2,Online,Yes,2,Urban,No,Yes,14
-S0446,Alice,Jones,Male,25,4th,Business,56.5,22,84.00559427234863,71.1,Group,Yes,1,Rural,No,No,22
-S0447,Alice,Brown,Female,23,1st,Engineering,58.6,16,70.4075845433349,70.5,Group,No,4,Urban,No,Yes,11
-S0448,Peter,Jones,Female,25,4th,Engineering,75.3,35,50.76974458456542,79.8,Online,Yes,4,Urban,Yes,No,11
-S0449,Grace,Jones,Male,18,3rd,Business,61.7,18,79.14630284021315,63.6,Group,No,1,Rural,Yes,Yes,7
-S0450,Peter,Miller,Male,19,2nd,Business,61.0,38,62.65507695898044,70.3,Online,Yes,4,Urban,No,Yes,16
-S0451,Peter,Williams,Female,18,2nd,Engineering,55.4,22,72.51271230714451,65.8,Group,No,1,Rural,No,Yes,11
-S0452,Peter,Jones,Male,21,1st,Business,69.2,38,97.87905075419087,75.4,Solo,Yes,2,Rural,No,No,21
-S0453,Peter,Miller,Female,24,1st,Statistics,85.6,15,69.95176588212173,59.2,Online,No,4,Urban,Yes,Yes,5
-S0454,Peter,Johnson,Male,20,2nd,Statistics,54.3,16,91.99008033322133,71.0,Solo,Yes,4,Rural,No,Yes,9
-S0455,Mary,Williams,Male,19,4th,Statistics,65.2,19,59.42703028746256,63.4,Solo,No,1,Rural,No,Yes,20
-S0456,Alice,Jones,Male,18,4th,Engineering,79.1,35,83.62302490125144,64.5,Online,Yes,4,Rural,No,Yes,19
-S0457,Peter,Davis,Male,22,3rd,Business,64.2,33,98.85034772194717,65.7,Solo,No,3,Rural,Yes,No,6
-S0458,Daniel,Smith,Male,19,4th,Business,69.5,30,55.09465504364684,67.0,Online,No,2,Urban,No,Yes,13
-S0459,Alice,Johnson,Male,24,1st,Computer Science,54.4,22,50.4159971113596,64.1,Solo,No,2,Rural,No,Yes,11
-S0460,Alice,Johnson,Male,25,1st,Computer Science,69.3,36,71.67913963163072,66.7,Online,Yes,4,Urban,Yes,Yes,8
-S0461,Jane,Miller,Female,19,4th,Business,63.1,26,54.63127415256836,77.6,Online,Yes,4,Rural,Yes,No,24
-S0462,Mary,Johnson,Female,25,1st,Business,74.9,21,87.41921748381156,72.9,Group,Yes,3,Rural,No,Yes,22
-S0463,Peter,Williams,Female,24,2nd,Business,76.9,27,95.72743319242795,72.0,Online,No,3,Rural,Yes,Yes,8
-S0464,John,Jones,Female,18,2nd,Engineering,90.9,28,71.70104863543794,61.4,Online,Yes,4,Urban,No,Yes,17
-S0465,Bob,Jones,Female,24,4th,Business,70.8,12,62.93558210777205,57.9,Solo,No,4,Urban,Yes,Yes,5
-S0466,Grace,Davis,Male,19,2nd,Computer Science,68.3,10,71.72016595033048,72.6,Online,Yes,3,Urban,Yes,No,7
-S0467,Daniel,Smith,Male,22,2nd,Engineering,66.9,9,86.17239089250005,72.0,Group,Yes,1,Rural,No,Yes,20
-S0468,John,Miller,Female,23,3rd,Business,61.5,33,50.45270807901855,76.8,Solo,Yes,3,Rural,No,Yes,8
-S0469,Mary,Smith,Male,19,3rd,Computer Science,68.4,32,79.47269947423486,60.2,Solo,Yes,1,Rural,No,No,20
-S0470,Bob,Johnson,Female,24,2nd,Engineering,62.0,15,80.66458424436895,63.2,Group,No,2,Rural,Yes,No,23
-S0471,Mary,Davis,Female,23,4th,Business,66.7,5,81.88441234479677,51.9,Solo,Yes,2,Urban,No,No,5
-S0472,Daniel,Smith,Male,24,3rd,Business,78.2,23,62.10110399904386,61.9,Solo,Yes,3,Rural,No,Yes,9
-S0473,Alice,Williams,Male,22,1st,Business,54.9,13,85.70263616890634,73.0,Solo,No,1,Urban,No,No,23
-S0474,Bob,Jones,Male,24,1st,Engineering,76.4,31,54.56957431658882,61.3,Solo,No,3,Rural,No,Yes,15
-S0475,Alice,Johnson,Female,18,1st,Computer Science,78.2,38,59.96351682334004,70.1,Group,Yes,3,Urban,No,No,17
-S0476,Daniel,Davis,Male,20,4th,Computer Science,63.8,8,93.87350233272409,63.5,Group,Yes,1,Urban,Yes,Yes,24
-S0477,John,Smith,Female,25,2nd,Statistics,43.8,22,86.93615753632832,67.6,Solo,No,3,Rural,No,No,9
-S0478,Daniel,Miller,Female,25,1st,Business,58.9,19,50.687277700567265,55.8,Solo,No,2,Rural,No,Yes,8
-S0479,John,Williams,Female,19,4th,Statistics,78.0,17,62.41881301849001,65.7,Group,No,4,Urban,Yes,No,8
-S0480,Bob,Williams,Male,20,3rd,Statistics,64.8,23,60.720324149658225,41.1,Group,Yes,4,Rural,No,Yes,8
-S0481,Bob,Smith,Male,24,2nd,Computer Science,55.0,10,63.54031640184863,63.5,Group,Yes,3,Rural,No,Yes,8
-S0482,Peter,Jones,Female,22,3rd,Engineering,60.0,16,62.377988513994325,52.0,Solo,Yes,1,Urban,No,Yes,24
-S0483,Mary,Smith,Male,19,4th,Engineering,73.4,21,53.126314787142285,74.6,Solo,No,1,Urban,No,Yes,22
-S0484,Peter,Johnson,Male,24,1st,Computer Science,70.5,27,72.94702582984101,71.2,Online,No,2,Urban,No,Yes,22
-S0485,Mary,Smith,Male,23,1st,Engineering,62.6,30,86.63667373930826,68.7,Group,No,1,Urban,Yes,Yes,20
-S0486,Peter,Williams,Female,21,4th,Statistics,61.3,33,80.33658623587182,77.2,Solo,Yes,1,Rural,Yes,Yes,13
-S0487,Alice,Davis,Female,24,1st,Business,61.1,37,83.643583429904,57.4,Group,No,2,Urban,Yes,Yes,22
-S0488,Bob,Smith,Male,20,2nd,Computer Science,55.8,31,54.05745892681196,79.0,Solo,Yes,3,Urban,No,No,6
-S0489,John,Jones,Female,19,4th,Business,81.2,29,97.57453550883936,72.5,Group,No,4,Urban,Yes,Yes,8
-S0490,Mary,Davis,Male,20,3rd,Engineering,61.8,14,91.92459169215124,63.1,Solo,Yes,2,Rural,No,Yes,16
-S0491,Daniel,Miller,Male,19,4th,Business,77.2,27,90.25451592478314,74.1,Online,Yes,3,Urban,No,No,11
-S0492,Mary,Brown,Male,24,2nd,Engineering,80.2,25,91.14919025208837,56.1,Online,No,2,Rural,No,Yes,19
-S0493,John,Smith,Male,18,2nd,Engineering,75.0,25,96.63552540663807,58.4,Group,Yes,3,Urban,Yes,No,11
-S0494,Peter,Jones,Female,23,4th,Statistics,60.7,17,77.21269830568488,60.1,Solo,No,2,Urban,Yes,Yes,21
-S0495,Mary,Davis,Female,24,4th,Engineering,69.0,37,60.0141008933813,60.8,Solo,Yes,3,Rural,Yes,No,20
-S0496,Grace,Jones,Female,25,1st,Statistics,64.8,28,80.83918039262706,56.5,Group,No,2,Urban,No,No,23
-S0497,Alice,Miller,Male,20,2nd,Statistics,56.0,15,87.14407468339695,74.8,Solo,No,3,Urban,Yes,Yes,13
-S0498,Bob,Williams,Male,21,4th,Statistics,68.2,21,86.89586966770128,62.9,Group,Yes,2,Rural,No,No,18
-S0499,John,Jones,Male,21,4th,Computer Science,53.2,8,76.072451208344,67.8,Solo,No,4,Urban,Yes,Yes,21
-S0500,Bob,Davis,Female,22,2nd,Computer Science,76.9,29,53.42293596667891,60.4,Group,Yes,4,Urban,Yes,Yes,9
+StudentID,FirstName,LastName,Gender,Age,YearOfStudy,Programme,StudyMethod,PartTimeJob,UniversityRank,Region,ExtracurricularActivity,Scholarship,SocialMediaUsage,StudyHours,Attendance,PreviousScore,Score
+S0001,Grace,Davis,Male,20,2nd,Engineering,Solo,No,1,Urban,No,Yes,5,20,73.05351560991863,69.4,46.6
+S0002,Bob,Jones,Male,23,3rd,Computer Science,Group,Yes,1,Urban,No,No,15,14,93.20716305192161,66.0,44.8
+S0003,Mary,Jones,Male,19,1st,Statistics,Solo,Yes,2,Urban,Yes,No,20,12,51.9818170724809,63.1,30.4
+S0004,Grace,Davis,Female,25,3rd,Computer Science,Online,Yes,1,Urban,Yes,Yes,22,18,81.2000819180618,69.8,49.0
+S0005,Alice,Smith,Female,23,4th,Computer Science,Online,Yes,2,Rural,Yes,No,20,12,79.17061538219437,61.7,31.6
+S0006,Daniel,Williams,Male,23,2nd,Computer Science,Online,No,4,Rural,No,No,14,17,60.416604316084474,64.9,33.1
+S0007,Mary,Johnson,Male,25,3rd,Computer Science,Solo,Yes,4,Rural,Yes,Yes,22,16,80.66088559586069,68.5,37.5
+S0008,Mary,Smith,Male,24,3rd,Statistics,Online,Yes,2,Rural,No,Yes,10,16,92.30824360634372,68.4,40.7
+S0009,Grace,Johnson,Female,24,4th,Computer Science,Group,No,2,Rural,Yes,No,23,37,71.40357534915306,59.5,31.9
+S0010,Jane,Davis,Male,19,3rd,Computer Science,Online,Yes,3,Rural,Yes,Yes,8,5,64.3843424881428,72.3,26.8
+S0011,Alice,Miller,Female,23,3rd,Engineering,Online,Yes,3,Rural,No,No,17,5,69.71795224998598,66.3,35.2
+S0012,Grace,Johnson,Male,20,4th,Statistics,Online,Yes,3,Urban,Yes,Yes,18,11,90.46671615161102,74.9,37.8
+S0013,Alice,Williams,Male,21,1st,Statistics,Group,No,4,Urban,Yes,No,7,24,98.8678433982747,76.5,56.4
+S0014,Alice,Miller,Male,19,4th,Business,Solo,Yes,3,Rural,No,Yes,14,13,69.98518609233496,53.5,30.9
+S0015,Daniel,Johnson,Male,22,1st,Statistics,Group,No,1,Rural,Yes,No,10,37,92.50085236426574,58.1,41.1
+S0016,Mary,Davis,Female,25,2nd,Statistics,Solo,Yes,1,Urban,No,No,5,14,73.92474606940173,71.5,44.0
+S0017,Bob,Miller,Female,23,1st,Business,Solo,Yes,3,Urban,Yes,No,18,9,74.20023206336194,51.7,32.4
+S0018,Daniel,Davis,Male,19,1st,Statistics,Online,No,1,Urban,Yes,Yes,12,38,62.51447817798604,77.1,41.2
+S0019,Daniel,Johnson,Male,18,2nd,Statistics,Solo,Yes,4,Urban,Yes,Yes,23,6,59.76303106387458,62.2,26.3
+S0020,Alice,Davis,Female,18,1st,Statistics,Group,Yes,1,Rural,Yes,No,18,13,78.64016037772123,69.6,55.7
+S0021,Peter,Williams,Female,24,4th,Statistics,Group,No,4,Urban,Yes,No,14,36,86.68984021771237,64.1,44.2
+S0022,Mary,Johnson,Female,25,1st,Business,Solo,No,2,Rural,Yes,Yes,21,27,51.31198337099401,53.9,35.2
+S0023,Jane,Johnson,Female,21,2nd,Statistics,Online,No,2,Rural,Yes,Yes,13,39,90.82620249603826,73.4,41.6
+S0024,Daniel,Johnson,Male,20,4th,Statistics,Online,No,2,Rural,Yes,Yes,10,30,57.03276692973993,87.0,39.6
+S0025,Bob,Smith,Female,21,2nd,Business,Group,No,2,Urban,No,Yes,15,32,76.6026603061416,60.9,49.1
+S0026,Peter,Smith,Male,21,2nd,Engineering,Online,Yes,1,Urban,No,Yes,11,7,73.32242794014408,68.4,42.5
+S0027,Peter,Smith,Female,21,3rd,Computer Science,Solo,No,3,Rural,Yes,Yes,21,26,81.95516448517756,43.8,34.9
+S0028,Jane,Williams,Female,25,3rd,Engineering,Solo,Yes,1,Rural,Yes,No,5,12,54.30780746349788,75.8,33.6
+S0029,Daniel,Miller,Female,21,2nd,Business,Group,Yes,4,Rural,No,Yes,9,5,79.53084092641487,72.3,36.5
+S0030,Bob,Davis,Female,22,2nd,Computer Science,Solo,Yes,1,Urban,Yes,No,13,19,93.59035725084607,51.1,33.2
+S0031,Mary,Jones,Female,25,2nd,Business,Group,No,1,Rural,Yes,Yes,22,24,77.87028900342837,59.7,30.3
+S0032,John,Johnson,Male,22,3rd,Business,Solo,No,4,Urban,No,Yes,6,29,64.08725652784162,49.4,37.5
+S0033,Bob,Davis,Male,25,3rd,Statistics,Group,Yes,2,Rural,Yes,No,15,19,95.094954718541,70.2,45.1
+S0034,Jane,Johnson,Female,24,1st,Computer Science,Online,No,2,Rural,Yes,No,10,37,52.25964942607049,71.0,41.8
+S0035,Peter,Williams,Female,19,1st,Statistics,Solo,No,2,Rural,No,Yes,12,21,70.90759259640369,57.6,32.8
+S0036,Mary,Johnson,Male,18,2nd,Computer Science,Solo,No,3,Urban,Yes,No,8,27,67.08275440032516,69.0,40.0
+S0037,Bob,Smith,Female,21,4th,Business,Group,No,4,Urban,Yes,No,22,31,79.49760279725953,66.3,37.6
+S0038,John,Jones,Female,24,4th,Business,Group,Yes,4,Rural,No,No,15,13,78.57098782134294,62.1,31.8
+S0039,John,Brown,Male,19,3rd,Engineering,Solo,Yes,1,Urban,Yes,No,9,12,54.11183471871841,72.8,42.5
+S0040,Alice,Johnson,Female,18,3rd,Computer Science,Group,No,3,Rural,No,Yes,19,34,79.44477488054946,55.4,38.0
+S0041,Alice,Davis,Female,23,3rd,Statistics,Solo,Yes,2,Urban,Yes,No,22,14,51.93735812220508,74.2,35.8
+S0042,Grace,Smith,Male,20,2nd,Engineering,Online,No,3,Urban,Yes,Yes,6,35,85.14337386399959,59.2,45.4
+S0043,Jane,Brown,Male,22,4th,Engineering,Group,No,4,Urban,No,Yes,15,32,81.94683381874034,79.3,45.7
+S0044,Daniel,Jones,Male,23,1st,Engineering,Solo,Yes,4,Rural,No,Yes,17,17,69.97567245439602,57.0,34.0
+S0045,Bob,Brown,Female,25,2nd,Statistics,Online,Yes,1,Urban,Yes,Yes,8,13,90.21175639025591,68.2,34.9
+S0046,Bob,Smith,Male,18,1st,Engineering,Online,Yes,1,Urban,No,No,11,19,79.61247427375494,65.5,33.8
+S0047,Daniel,Miller,Male,23,1st,Statistics,Solo,No,4,Rural,No,No,15,26,50.36265965039539,65.4,28.7
+S0048,Grace,Miller,Male,20,2nd,Engineering,Group,Yes,2,Rural,Yes,Yes,8,16,98.29524468883855,68.9,45.8
+S0049,Peter,Brown,Male,24,1st,Statistics,Solo,No,2,Rural,Yes,Yes,19,20,60.67150096899701,54.7,31.0
+S0050,Peter,Williams,Male,18,4th,Business,Online,Yes,3,Rural,Yes,Yes,5,7,54.84263831419365,64.7,26.8
+S0051,Grace,Davis,Male,23,1st,Business,Solo,Yes,4,Urban,No,Yes,7,16,84.5657680271397,66.1,42.1
+S0052,Peter,Davis,Female,22,4th,Business,Group,No,4,Urban,No,No,18,21,85.01431947600155,60.8,40.4
+S0053,Alice,Brown,Female,22,4th,Business,Online,No,2,Urban,No,Yes,10,39,69.5196754708108,68.2,37.7
+S0054,Bob,Johnson,Male,19,4th,Business,Solo,No,2,Urban,No,No,22,17,61.22763858572338,54.2,29.6
+S0055,Grace,Johnson,Male,23,3rd,Engineering,Group,No,4,Urban,Yes,Yes,5,30,86.42414469586956,62.4,44.2
+S0056,Bob,Davis,Male,21,1st,Engineering,Online,No,1,Rural,No,Yes,10,32,62.347307234116435,66.2,33.4
+S0057,Daniel,Davis,Female,23,2nd,Engineering,Group,No,4,Urban,Yes,Yes,10,30,97.04749015861202,62.4,46.0
+S0058,John,Miller,Female,24,2nd,Statistics,Online,No,4,Urban,No,Yes,20,37,59.68420158799368,76.6,41.8
+S0059,Alice,Williams,Female,18,1st,Statistics,Solo,No,2,Urban,Yes,No,9,21,89.79598177050892,76.7,39.3
+S0060,Mary,Smith,Female,18,3rd,Statistics,Group,Yes,2,Rural,Yes,No,21,8,86.78216277182071,75.2,40.5
+S0061,Alice,Johnson,Female,24,3rd,Statistics,Online,No,1,Rural,Yes,No,14,39,87.28196602528584,61.3,44.1
+S0062,Grace,Davis,Female,23,4th,Business,Group,No,1,Urban,No,Yes,22,22,91.38537987582865,74.5,39.7
+S0063,Mary,Miller,Female,24,1st,Business,Group,Yes,3,Rural,Yes,Yes,11,17,90.90085334310245,65.9,37.5
+S0064,John,Jones,Female,20,1st,Business,Solo,No,4,Rural,Yes,No,7,27,64.5955613462775,65.4,32.2
+S0065,Grace,Miller,Female,25,2nd,Computer Science,Group,Yes,2,Rural,No,No,17,5,77.0169079441661,64.4,31.8
+S0066,Jane,Johnson,Male,24,1st,Engineering,Online,Yes,1,Rural,Yes,Yes,19,5,59.48988024563546,78.8,34.6
+S0067,Bob,Johnson,Male,22,3rd,Statistics,Online,No,3,Rural,No,Yes,24,19,88.57362456768149,75.9,39.2
+S0068,John,Miller,Male,24,1st,Statistics,Online,Yes,3,Rural,No,No,23,10,86.91920691165589,71.0,31.0
+S0069,Bob,Smith,Male,18,2nd,Business,Online,No,2,Rural,Yes,Yes,7,33,69.82580876055383,63.6,35.5
+S0070,Peter,Brown,Female,22,4th,Statistics,Solo,Yes,2,Urban,Yes,Yes,8,17,55.958207607340455,65.3,31.3
+S0071,Jane,Johnson,Female,18,2nd,Statistics,Group,Yes,3,Urban,No,No,9,13,81.46756755932375,69.2,42.8
+S0072,Jane,Miller,Male,19,2nd,Engineering,Solo,Yes,1,Rural,Yes,Yes,5,16,77.87045543616101,67.4,41.5
+S0073,John,Davis,Female,21,4th,Business,Group,No,3,Urban,No,No,8,28,83.63209463439858,72.5,47.5
+S0074,Jane,Miller,Male,18,2nd,Engineering,Group,No,4,Urban,No,Yes,16,36,93.40567805448984,57.6,37.9
+S0075,Mary,Williams,Female,22,2nd,Computer Science,Group,Yes,4,Rural,No,No,14,8,99.92868466754156,68.1,41.3
+S0076,Jane,Brown,Male,19,1st,Computer Science,Solo,Yes,2,Urban,Yes,Yes,24,16,58.600943980200356,46.7,14.4
+S0077,Bob,Jones,Female,18,1st,Computer Science,Group,No,1,Rural,No,No,17,21,83.78952458978718,60.6,39.6
+S0078,Bob,Smith,Female,20,4th,Business,Solo,No,1,Rural,Yes,No,18,22,69.39427558643699,81.6,44.0
+S0079,Grace,Jones,Male,24,1st,Statistics,Online,Yes,4,Rural,Yes,No,9,13,63.70216397370279,73.3,34.7
+S0080,Bob,Brown,Female,21,1st,Business,Online,Yes,3,Urban,Yes,No,8,17,58.91429825241303,77.3,39.1
+S0081,Grace,Brown,Male,18,2nd,Business,Group,No,2,Urban,Yes,Yes,18,20,71.97076349468978,59.7,26.9
+S0082,Bob,Brown,Male,19,3rd,Statistics,Solo,No,3,Urban,No,Yes,14,20,89.92036927506643,65.8,36.3
+S0083,Mary,Jones,Male,20,1st,Engineering,Online,No,3,Urban,Yes,No,21,38,68.89319139588429,75.3,45.7
+S0084,Daniel,Davis,Male,23,3rd,Computer Science,Solo,No,3,Rural,No,Yes,14,35,72.3602983325022,70.1,43.7
+S0085,Grace,Brown,Female,19,1st,Engineering,Solo,No,1,Rural,No,Yes,11,17,91.26239216904122,72.5,40.2
+S0086,Alice,Miller,Female,24,1st,Computer Science,Group,Yes,4,Urban,Yes,Yes,20,16,93.28871432547844,78.0,47.3
+S0087,Peter,Jones,Female,19,4th,Business,Online,No,1,Rural,No,Yes,5,17,55.87255688527329,64.8,34.2
+S0088,John,Brown,Male,20,4th,Computer Science,Group,Yes,4,Rural,No,Yes,21,17,86.96259902823228,63.5,35.2
+S0089,Bob,Miller,Female,19,4th,Business,Group,No,2,Urban,Yes,No,13,36,83.26756829558677,51.0,36.9
+S0090,Jane,Davis,Male,20,3rd,Engineering,Online,Yes,2,Rural,No,No,10,6,85.87449826604433,56.2,32.0
+S0091,Daniel,Williams,Female,18,2nd,Business,Online,No,3,Urban,No,No,23,30,82.59046464253771,73.6,36.4
+S0092,Bob,Davis,Female,25,1st,Engineering,Solo,No,4,Rural,No,No,17,36,81.06825748599823,57.7,45.3
+S0093,Jane,Brown,Female,20,1st,Statistics,Online,Yes,4,Urban,No,Yes,7,17,65.32451759659536,70.9,34.2
+S0094,Peter,Jones,Male,20,1st,Statistics,Solo,Yes,4,Rural,Yes,Yes,11,10,86.22336786796646,78.3,37.5
+S0095,Peter,Johnson,Female,21,3rd,Statistics,Solo,No,3,Rural,No,No,13,22,52.35760830176876,63.6,25.0
+S0096,Peter,Brown,Female,20,4th,Business,Solo,No,3,Urban,No,Yes,9,37,57.18312056444753,69.2,25.5
+S0097,Jane,Johnson,Male,20,2nd,Statistics,Online,No,2,Urban,No,Yes,14,22,65.10304728400602,70.9,40.8
+S0098,Bob,Miller,Female,23,3rd,Computer Science,Group,No,1,Urban,No,No,21,39,72.30422323207844,55.2,40.7
+S0099,Peter,Williams,Male,25,4th,Engineering,Solo,No,4,Urban,Yes,Yes,16,20,60.57474248906112,60.1,38.5
+S0100,Mary,Smith,Female,18,3rd,Engineering,Group,Yes,4,Rural,No,No,20,18,94.90452948993754,57.0,36.9
+S0101,Grace,Davis,Male,24,2nd,Computer Science,Group,Yes,1,Rural,Yes,No,7,7,98.44754613370237,60.7,37.0
+S0102,Jane,Williams,Male,21,4th,Business,Online,No,4,Urban,No,Yes,13,24,63.70710600983857,70.7,34.9
+S0103,Jane,Brown,Female,23,3rd,Business,Group,Yes,3,Rural,Yes,Yes,19,7,77.93547411966514,60.2,31.1
+S0104,Bob,Johnson,Male,22,2nd,Engineering,Group,Yes,3,Urban,Yes,No,9,15,78.39677956739281,64.7,42.8
+S0105,Jane,Davis,Male,25,1st,Statistics,Online,Yes,4,Urban,Yes,No,17,16,62.497358930787975,56.7,30.9
+S0106,Jane,Johnson,Male,18,2nd,Business,Solo,No,3,Rural,Yes,Yes,18,31,51.61685819836878,74.8,39.1
+S0107,Peter,Jones,Male,18,1st,Business,Group,Yes,3,Rural,Yes,No,24,15,97.80749038993324,60.6,36.1
+S0108,Bob,Johnson,Male,22,3rd,Computer Science,Online,No,4,Urban,No,No,19,19,59.61641637066478,77.2,43.6
+S0109,Peter,Jones,Male,24,4th,Computer Science,Group,Yes,2,Urban,No,No,20,18,82.60012222244215,65.5,28.2
+S0110,Grace,Miller,Female,20,4th,Statistics,Group,No,1,Urban,No,Yes,17,34,70.29060648222904,63.0,32.0
+S0111,Daniel,Davis,Male,23,3rd,Business,Solo,Yes,3,Rural,Yes,No,21,13,88.60797909117758,63.6,39.2
+S0112,Grace,Davis,Male,19,4th,Business,Group,No,2,Rural,No,Yes,12,23,91.93472033364752,56.5,47.5
+S0113,Daniel,Smith,Female,21,4th,Computer Science,Online,No,3,Rural,Yes,No,6,35,92.60402158281664,69.7,44.7
+S0114,Peter,Brown,Female,19,1st,Business,Group,Yes,3,Rural,Yes,Yes,9,14,93.44846437589197,62.9,35.2
+S0115,Grace,Jones,Female,22,3rd,Engineering,Solo,No,1,Urban,No,No,10,34,64.11679304234293,66.3,43.5
+S0116,Bob,Smith,Female,18,2nd,Computer Science,Solo,No,3,Urban,No,Yes,16,21,61.15430114277906,62.0,35.0
+S0117,John,Johnson,Female,24,1st,Statistics,Online,No,1,Urban,Yes,Yes,22,36,81.39723383989818,67.2,47.9
+S0118,Peter,Johnson,Female,18,3rd,Computer Science,Solo,No,1,Urban,Yes,Yes,5,18,66.38507487547247,65.1,29.5
+S0119,Daniel,Smith,Female,21,1st,Business,Group,No,1,Urban,No,No,21,27,86.9864504725785,71.7,48.3
+S0120,Mary,Davis,Male,18,2nd,Statistics,Solo,No,2,Urban,No,No,15,27,50.281586196191164,63.6,25.3
+S0121,Daniel,Johnson,Male,18,2nd,Computer Science,Online,No,4,Rural,No,No,14,24,52.78485657562138,62.5,31.3
+S0122,Mary,Miller,Female,21,3rd,Engineering,Solo,No,2,Rural,No,Yes,23,32,74.09155735317431,63.4,40.0
+S0123,Jane,Miller,Male,23,2nd,Engineering,Solo,Yes,4,Urban,Yes,No,18,5,75.47322409016743,59.6,33.1
+S0124,Grace,Smith,Male,23,1st,Computer Science,Solo,Yes,4,Urban,No,Yes,14,8,83.81538250067047,62.5,41.0
+S0125,Mary,Jones,Male,21,2nd,Engineering,Online,No,1,Rural,No,No,19,34,55.938439383078276,66.6,26.9
+S0126,Daniel,Jones,Female,24,1st,Engineering,Solo,No,3,Rural,No,Yes,23,27,73.09323876905505,56.7,35.4
+S0127,Jane,Smith,Female,22,1st,Engineering,Solo,Yes,1,Rural,Yes,Yes,8,5,58.75014399942599,65.6,37.6
+S0128,John,Jones,Male,25,2nd,Statistics,Group,Yes,3,Rural,Yes,Yes,6,10,72.79588358688085,76.0,39.1
+S0129,Bob,Davis,Female,18,3rd,Engineering,Online,Yes,4,Urban,Yes,No,13,8,68.47231073272496,62.1,26.9
+S0130,Bob,Davis,Male,24,4th,Engineering,Solo,No,1,Urban,Yes,No,14,15,57.350149164007576,60.6,36.3
+S0131,Bob,Jones,Male,18,2nd,Engineering,Online,Yes,3,Urban,No,No,15,5,59.980189018654336,54.2,24.5
+S0132,Mary,Miller,Male,25,1st,Statistics,Solo,No,2,Urban,Yes,Yes,18,29,64.28995609412758,71.8,34.3
+S0133,John,Jones,Male,22,1st,Computer Science,Solo,No,3,Urban,No,Yes,11,27,61.67247803344383,56.6,28.9
+S0134,Mary,Davis,Female,23,2nd,Business,Solo,Yes,1,Rural,No,No,19,5,53.941608383267585,64.9,28.4
+S0135,Grace,Williams,Female,24,3rd,Engineering,Group,No,2,Urban,No,No,23,38,72.69748734579107,51.3,36.1
+S0136,Mary,Brown,Female,20,3rd,Computer Science,Group,No,3,Rural,No,No,19,22,75.79748245702504,71.5,32.8
+S0137,John,Johnson,Male,20,1st,Engineering,Group,No,3,Urban,Yes,Yes,12,32,71.51677563878617,74.4,36.5
+S0138,John,Williams,Female,25,1st,Statistics,Online,No,3,Urban,Yes,Yes,15,27,78.19056588546172,68.9,36.7
+S0139,Grace,Jones,Male,20,3rd,Computer Science,Online,Yes,3,Urban,Yes,Yes,13,11,62.92970224290059,52.7,24.5
+S0140,John,Miller,Female,23,4th,Statistics,Group,Yes,3,Urban,No,Yes,19,18,78.39237903307213,71.7,39.1
+S0141,Daniel,Smith,Male,25,2nd,Engineering,Online,No,2,Urban,No,Yes,5,22,64.93992324069943,58.4,36.2
+S0142,John,Jones,Male,23,1st,Engineering,Solo,No,4,Rural,No,No,5,22,79.82583233943748,55.6,37.7
+S0143,Bob,Miller,Male,22,1st,Statistics,Solo,Yes,2,Rural,No,Yes,23,15,89.17852466675707,61.9,38.2
+S0144,Daniel,Brown,Female,18,3rd,Business,Solo,No,2,Rural,No,Yes,7,29,84.15891196500374,61.8,48.8
+S0145,Daniel,Jones,Female,22,2nd,Statistics,Group,Yes,2,Urban,Yes,Yes,14,15,91.82587690675285,61.0,40.4
+S0146,Grace,Davis,Female,22,3rd,Engineering,Online,No,4,Urban,No,Yes,12,27,71.79760335203821,75.2,45.0
+S0147,Alice,Smith,Female,23,2nd,Statistics,Group,No,1,Rural,Yes,Yes,19,21,90.81416670902235,80.1,42.4
+S0148,Alice,Miller,Male,25,2nd,Business,Online,Yes,4,Urban,No,No,14,9,74.87430656151125,54.0,36.3
+S0149,John,Miller,Female,25,2nd,Statistics,Solo,Yes,2,Urban,No,Yes,5,5,59.7312737683938,59.5,28.0
+S0150,Daniel,Miller,Female,20,1st,Business,Group,Yes,3,Rural,Yes,Yes,22,16,76.25765103223152,66.1,38.1
+S0151,Alice,Brown,Male,19,4th,Business,Online,Yes,3,Urban,Yes,Yes,6,13,63.33764030938775,61.9,26.4
+S0152,Alice,Jones,Male,18,3rd,Statistics,Online,No,2,Rural,No,No,23,30,90.9861201936416,68.2,43.2
+S0153,John,Brown,Male,23,4th,Statistics,Solo,Yes,3,Urban,No,No,17,11,74.63366781708767,72.3,32.2
+S0154,Alice,Johnson,Female,20,3rd,Computer Science,Group,No,2,Rural,No,No,5,16,92.01716131005608,71.0,47.1
+S0155,Mary,Johnson,Male,24,2nd,Engineering,Group,Yes,3,Urban,No,Yes,6,10,80.39676279449642,69.9,42.8
+S0156,Jane,Jones,Male,19,1st,Business,Group,Yes,4,Urban,Yes,No,20,6,82.23147311995676,78.3,36.8
+S0157,Grace,Davis,Male,19,4th,Computer Science,Solo,No,1,Rural,No,Yes,19,31,55.65045103867631,62.1,44.3
+S0158,Jane,Brown,Female,23,1st,Statistics,Group,Yes,1,Urban,Yes,Yes,17,18,75.13884873465011,77.4,38.7
+S0159,John,Smith,Male,21,3rd,Engineering,Solo,Yes,4,Urban,No,No,20,11,87.23104496717656,61.7,28.1
+S0160,Bob,Miller,Female,18,1st,Computer Science,Solo,Yes,4,Rural,Yes,Yes,21,17,76.31773842599969,71.3,34.1
+S0161,Grace,Miller,Female,19,1st,Business,Solo,Yes,2,Urban,Yes,Yes,11,6,65.18896096477185,56.8,25.0
+S0162,John,Jones,Male,23,4th,Computer Science,Online,No,2,Rural,No,Yes,21,28,86.12830440479956,57.7,39.9
+S0163,Daniel,Davis,Male,23,2nd,Business,Group,No,2,Urban,Yes,No,11,32,77.39559716913949,70.3,35.7
+S0164,Bob,Johnson,Female,20,1st,Statistics,Group,Yes,3,Urban,No,Yes,17,17,99.28098095800611,49.6,33.7
+S0165,Jane,Johnson,Male,24,2nd,Engineering,Solo,Yes,2,Urban,Yes,Yes,9,15,65.51679234857764,72.9,38.6
+S0166,John,Miller,Male,21,3rd,Engineering,Solo,Yes,4,Urban,No,No,21,9,65.17899293680524,75.1,36.0
+S0167,Daniel,Jones,Female,18,1st,Engineering,Group,No,1,Rural,Yes,Yes,7,35,79.35735716610115,70.9,43.4
+S0168,Grace,Brown,Female,25,4th,Statistics,Solo,No,3,Urban,No,Yes,11,30,55.49501821659295,66.1,36.5
+S0169,Grace,Johnson,Male,22,3rd,Business,Group,No,2,Rural,No,No,21,37,73.33411441996037,58.3,35.6
+S0170,Peter,Brown,Female,24,3rd,Statistics,Online,No,3,Urban,Yes,Yes,11,31,79.16472655403555,70.4,34.0
+S0171,Daniel,Davis,Male,24,4th,Engineering,Solo,Yes,3,Urban,Yes,Yes,5,12,89.38031200511212,67.8,38.1
+S0172,Mary,Johnson,Male,20,1st,Statistics,Group,Yes,2,Urban,Yes,Yes,21,7,93.7156153081502,57.6,37.7
+S0173,Alice,Johnson,Male,25,1st,Statistics,Solo,Yes,3,Urban,Yes,Yes,21,8,56.3498417309608,61.9,28.7
+S0174,Bob,Williams,Female,19,3rd,Statistics,Group,No,1,Rural,No,Yes,15,29,86.367463653762,69.2,44.3
+S0175,Daniel,Johnson,Male,19,1st,Business,Group,Yes,4,Rural,Yes,No,7,13,73.1677463792992,61.9,32.2
+S0176,Peter,Smith,Male,20,2nd,Computer Science,Solo,No,4,Rural,No,No,19,34,52.038258962588486,54.1,36.5
+S0177,Alice,Jones,Male,23,4th,Computer Science,Online,No,1,Rural,Yes,No,15,24,79.53736367231453,70.6,27.6
+S0178,Alice,Jones,Female,19,2nd,Statistics,Group,Yes,3,Urban,No,No,20,16,86.05457001041052,63.1,38.0
+S0179,John,Brown,Female,21,1st,Computer Science,Group,Yes,2,Rural,No,Yes,13,19,72.46071055634413,65.1,43.3
+S0180,Alice,Davis,Female,18,3rd,Computer Science,Group,Yes,3,Rural,No,Yes,5,9,71.04817739217965,60.4,41.1
+S0181,Mary,Johnson,Female,24,4th,Statistics,Online,No,1,Urban,No,Yes,20,37,94.53903860342007,72.4,44.9
+S0182,Grace,Smith,Female,24,1st,Statistics,Online,No,3,Urban,Yes,Yes,13,34,51.35095994670824,66.6,29.1
+S0183,Peter,Brown,Male,21,1st,Engineering,Solo,Yes,4,Urban,Yes,Yes,23,18,70.00377138725719,74.7,44.5
+S0184,Alice,Williams,Female,25,3rd,Computer Science,Online,Yes,3,Urban,No,No,16,5,72.7078561073463,68.8,34.3
+S0185,John,Brown,Female,19,3rd,Business,Solo,No,1,Rural,Yes,No,23,39,55.27760665102003,63.4,34.8
+S0186,Mary,Brown,Female,24,2nd,Statistics,Solo,Yes,4,Rural,Yes,Yes,13,8,57.60778002978723,59.1,25.1
+S0187,Jane,Johnson,Male,22,4th,Engineering,Online,No,3,Urban,No,Yes,11,23,65.83122528846586,71.9,32.0
+S0188,Grace,Williams,Female,25,4th,Business,Solo,No,3,Urban,Yes,Yes,18,36,84.27541442961481,62.7,43.9
+S0189,Grace,Brown,Female,18,3rd,Computer Science,Online,Yes,4,Urban,Yes,No,23,19,72.818709082712,63.6,38.5
+S0190,Peter,Smith,Male,18,2nd,Engineering,Solo,Yes,2,Rural,Yes,Yes,23,5,78.70558435488327,63.6,34.5
+S0191,Grace,Smith,Female,24,4th,Statistics,Online,Yes,4,Rural,No,Yes,6,16,94.33285497908037,61.8,36.2
+S0192,Alice,Jones,Male,20,3rd,Business,Online,Yes,2,Urban,Yes,Yes,13,7,84.56024458909442,63.8,30.8
+S0193,John,Williams,Male,25,1st,Statistics,Solo,No,1,Urban,No,No,17,25,69.5462674163548,80.4,34.2
+S0194,Grace,Williams,Male,24,4th,Computer Science,Group,No,1,Rural,Yes,Yes,19,16,83.39325765389646,64.8,34.6
+S0195,Grace,Jones,Male,20,2nd,Business,Solo,No,4,Urban,Yes,No,7,30,77.84474346684523,58.5,33.4
+S0196,Jane,Brown,Male,24,2nd,Computer Science,Online,Yes,4,Urban,Yes,No,15,13,79.94143437885069,76.1,31.4
+S0197,Jane,Williams,Female,22,2nd,Computer Science,Group,No,1,Rural,No,No,18,29,85.02132777510013,62.0,42.9
+S0198,Bob,Smith,Male,25,1st,Engineering,Solo,Yes,2,Urban,No,No,12,16,79.0187550266741,61.4,29.6
+S0199,Mary,Smith,Male,23,4th,Statistics,Solo,Yes,1,Rural,Yes,No,22,5,51.058962248634444,73.3,35.9
+S0200,Alice,Johnson,Female,18,4th,Business,Solo,Yes,4,Urban,No,No,23,17,69.33302887535798,53.6,33.0
+S0201,Grace,Williams,Male,24,1st,Computer Science,Group,Yes,1,Urban,Yes,Yes,20,18,78.3681422822043,74.1,41.0
+S0202,Daniel,Brown,Female,22,4th,Computer Science,Online,Yes,4,Rural,No,Yes,6,13,55.81285003593997,65.4,41.1
+S0203,Grace,Jones,Female,20,1st,Business,Solo,Yes,4,Rural,No,Yes,12,13,54.47959307639488,68.7,26.5
+S0204,John,Jones,Female,20,1st,Computer Science,Solo,No,1,Urban,Yes,No,10,22,77.14364745266003,68.6,43.8
+S0205,Bob,Brown,Male,18,1st,Engineering,Solo,Yes,2,Rural,Yes,Yes,16,12,73.56202462186752,60.0,32.0
+S0206,Mary,Davis,Male,21,2nd,Engineering,Solo,No,3,Urban,Yes,No,19,26,61.411285264836614,73.4,50.5
+S0207,Daniel,Miller,Male,24,4th,Engineering,Solo,No,1,Urban,Yes,No,12,15,71.19275264476315,60.6,32.3
+S0208,Bob,Johnson,Female,25,1st,Engineering,Online,Yes,3,Rural,No,No,8,15,72.15045418320838,68.3,34.4
+S0209,Peter,Jones,Male,19,4th,Computer Science,Online,Yes,1,Urban,No,Yes,19,12,58.775404119737715,76.2,37.2
+S0210,Mary,Williams,Male,20,2nd,Business,Solo,Yes,3,Urban,No,No,24,14,79.34418778467428,76.0,38.0
+S0211,Grace,Johnson,Male,25,1st,Business,Group,No,2,Rural,Yes,No,21,33,93.4275806915827,62.9,38.3
+S0212,Grace,Williams,Female,25,3rd,Business,Online,Yes,2,Rural,Yes,Yes,17,15,85.61585934002835,68.7,34.2
+S0213,Mary,Davis,Female,23,2nd,Business,Group,No,1,Urban,No,Yes,22,21,88.07409492110365,68.2,47.4
+S0214,Grace,Smith,Male,25,3rd,Statistics,Online,Yes,4,Rural,Yes,No,6,15,73.02373621335563,85.0,36.7
+S0215,Alice,Johnson,Male,25,4th,Business,Solo,Yes,3,Rural,No,No,17,19,52.74532143524277,71.2,35.1
+S0216,Mary,Jones,Male,23,4th,Statistics,Online,No,4,Rural,No,Yes,17,31,62.95240844832226,65.7,42.1
+S0217,Bob,Johnson,Male,20,2nd,Statistics,Solo,No,4,Rural,No,Yes,19,15,54.19721510501765,67.5,37.7
+S0218,Mary,Johnson,Female,25,4th,Engineering,Online,Yes,4,Urban,No,Yes,24,14,93.37204223953131,68.3,36.6
+S0219,Daniel,Johnson,Female,21,3rd,Statistics,Solo,No,2,Urban,No,No,14,35,56.07860658015923,68.5,36.3
+S0220,Grace,Miller,Female,21,1st,Computer Science,Solo,No,1,Urban,Yes,Yes,7,35,56.82989344329959,68.8,36.3
+S0221,Alice,Johnson,Female,22,1st,Statistics,Solo,No,1,Rural,Yes,Yes,23,22,90.03094782487216,68.0,32.8
+S0222,Alice,Williams,Male,23,1st,Engineering,Solo,No,2,Rural,Yes,Yes,7,37,92.4767727564406,63.8,47.0
+S0223,Peter,Smith,Male,22,2nd,Statistics,Group,No,2,Rural,No,No,18,38,92.97487117704729,55.9,41.4
+S0224,Bob,Davis,Male,23,4th,Computer Science,Solo,Yes,1,Rural,No,Yes,12,10,50.24322156527015,73.6,40.1
+S0225,Jane,Brown,Female,24,3rd,Computer Science,Group,Yes,4,Rural,No,Yes,8,10,70.04038812869692,58.6,28.7
+S0226,Jane,Johnson,Male,24,4th,Computer Science,Group,No,3,Rural,No,Yes,24,32,81.34302309362353,56.5,42.7
+S0227,Mary,Jones,Female,25,4th,Engineering,Solo,Yes,3,Rural,Yes,Yes,15,10,56.45279165049016,64.9,37.1
+S0228,Peter,Johnson,Female,19,4th,Engineering,Group,Yes,3,Urban,Yes,Yes,15,9,70.55158426454791,64.0,33.8
+S0229,John,Jones,Male,24,1st,Business,Online,No,4,Urban,No,No,15,27,70.88300102320271,67.0,27.3
+S0230,Mary,Williams,Male,19,3rd,Engineering,Solo,Yes,1,Rural,No,No,6,7,92.43778538331372,60.5,34.9
+S0231,Peter,Jones,Male,24,3rd,Computer Science,Group,No,2,Rural,No,No,21,36,79.71458724707294,61.9,48.5
+S0232,Bob,Brown,Female,18,4th,Computer Science,Solo,No,1,Rural,Yes,Yes,13,22,79.75133052929135,73.5,42.6
+S0233,Bob,Smith,Male,24,1st,Engineering,Solo,Yes,4,Urban,Yes,No,6,13,79.35059089095984,70.0,42.3
+S0234,Bob,Jones,Female,22,1st,Statistics,Solo,No,2,Urban,Yes,No,19,31,61.29860466493255,69.7,37.0
+S0235,Bob,Jones,Male,20,3rd,Engineering,Group,No,4,Rural,No,No,20,17,89.51275746471593,65.3,37.8
+S0236,Bob,Smith,Female,25,1st,Engineering,Online,No,3,Rural,No,Yes,8,33,59.555028842910104,66.4,28.3
+S0237,Peter,Brown,Female,22,1st,Computer Science,Online,No,3,Urban,Yes,Yes,12,25,55.49033361096001,66.8,38.9
+S0238,Peter,Johnson,Male,20,1st,Business,Group,No,4,Urban,No,No,13,38,91.04149856679071,59.8,47.8
+S0239,Alice,Jones,Female,21,2nd,Computer Science,Solo,Yes,2,Urban,Yes,No,9,5,55.104836769676254,76.8,29.4
+S0240,Daniel,Smith,Female,22,4th,Business,Group,Yes,2,Urban,No,Yes,20,9,99.90727655768066,75.7,41.6
+S0241,Jane,Williams,Male,21,3rd,Computer Science,Group,No,1,Rural,Yes,Yes,17,33,75.50357203450687,74.0,40.6
+S0242,Grace,Smith,Female,19,3rd,Engineering,Group,No,3,Urban,No,No,11,16,87.82425588269373,61.6,40.2
+S0243,Bob,Williams,Male,19,2nd,Computer Science,Solo,Yes,1,Urban,Yes,Yes,24,19,68.51185571356652,72.7,34.2
+S0244,John,Brown,Female,18,4th,Computer Science,Group,No,1,Rural,Yes,No,21,22,73.79159267217001,72.8,43.6
+S0245,Grace,Johnson,Male,24,3rd,Computer Science,Solo,Yes,4,Urban,Yes,Yes,7,7,51.2529758409836,55.2,27.9
+S0246,Peter,Smith,Male,22,1st,Engineering,Group,No,4,Urban,Yes,No,9,21,88.681968468785,78.6,31.9
+S0247,John,Davis,Female,21,3rd,Engineering,Online,No,1,Urban,Yes,No,23,31,86.30409037051066,51.1,38.7
+S0248,John,Davis,Female,20,1st,Engineering,Group,No,3,Rural,Yes,Yes,16,20,95.26046984520232,70.6,47.6
+S0249,John,Miller,Female,19,2nd,Engineering,Group,No,4,Urban,No,No,11,33,84.48140419230803,76.6,39.6
+S0250,Alice,Jones,Female,24,1st,Business,Online,No,1,Rural,No,No,13,38,84.98549602320736,64.1,44.6
+S0251,Peter,Brown,Female,19,3rd,Business,Solo,No,1,Rural,No,No,10,20,80.27812100698452,63.8,47.3
+S0252,John,Smith,Male,20,3rd,Statistics,Solo,No,1,Urban,Yes,Yes,21,16,82.591453737461,73.3,40.2
+S0253,Bob,Davis,Female,24,3rd,Engineering,Group,Yes,1,Urban,Yes,Yes,20,10,84.77797015665442,79.3,46.5
+S0254,Mary,Jones,Male,24,2nd,Business,Online,Yes,1,Urban,No,Yes,7,11,78.50352831089572,68.6,35.6
+S0255,John,Davis,Male,21,2nd,Computer Science,Solo,Yes,1,Urban,Yes,No,8,9,86.24866611092256,58.8,35.8
+S0256,Alice,Smith,Female,21,4th,Engineering,Group,No,4,Rural,Yes,Yes,14,33,81.93652526671069,61.6,39.0
+S0257,Grace,Williams,Male,22,3rd,Statistics,Online,No,3,Urban,Yes,No,9,34,86.26905053904127,52.6,37.0
+S0258,Peter,Smith,Male,22,1st,Statistics,Solo,No,1,Urban,Yes,No,14,18,76.64075792550783,72.2,38.4
+S0259,Daniel,Miller,Male,23,2nd,Statistics,Solo,No,2,Urban,Yes,Yes,16,36,57.46554609668538,60.9,27.2
+S0260,Alice,Smith,Male,25,3rd,Computer Science,Online,No,4,Rural,No,Yes,14,31,51.11078707510631,63.3,32.4
+S0261,John,Smith,Female,23,3rd,Business,Online,No,4,Urban,No,No,17,25,66.32391201796185,72.3,44.9
+S0262,Peter,Miller,Male,18,2nd,Computer Science,Online,No,1,Urban,No,No,15,18,74.6013347733353,62.0,30.8
+S0263,Mary,Brown,Female,19,4th,Engineering,Online,Yes,4,Rural,No,Yes,20,14,87.79191584915698,71.1,34.4
+S0264,John,Smith,Female,22,2nd,Statistics,Group,No,1,Rural,No,Yes,12,27,73.82457040420739,64.8,38.7
+S0265,Alice,Miller,Male,21,2nd,Computer Science,Online,Yes,3,Urban,Yes,Yes,12,8,86.00928564576105,72.7,40.0
+S0266,Jane,Jones,Female,20,1st,Computer Science,Solo,Yes,3,Urban,Yes,No,12,14,88.83540707302521,67.7,41.6
+S0267,Bob,Williams,Female,21,1st,Business,Solo,No,4,Urban,Yes,No,17,31,56.78093691503752,64.3,34.6
+S0268,Daniel,Williams,Female,19,4th,Business,Group,No,4,Urban,Yes,No,6,23,95.54782957912657,66.0,43.3
+S0269,Grace,Smith,Male,23,3rd,Statistics,Solo,Yes,2,Urban,No,No,16,8,94.61541055292564,54.7,33.6
+S0270,Alice,Brown,Female,21,2nd,Computer Science,Solo,Yes,4,Rural,No,No,14,11,82.70774739717069,65.9,30.7
+S0271,Peter,Brown,Female,25,4th,Computer Science,Online,No,2,Rural,No,Yes,16,28,85.31463568212446,63.9,39.9
+S0272,Daniel,Jones,Female,18,1st,Business,Solo,No,3,Urban,Yes,Yes,15,33,94.7486870401493,54.9,44.1
+S0273,Daniel,Smith,Male,19,2nd,Computer Science,Group,Yes,3,Urban,No,No,19,14,88.16443751577836,59.6,39.0
+S0274,Daniel,Williams,Female,23,3rd,Computer Science,Online,No,1,Rural,Yes,No,20,17,63.85488719073122,64.0,24.6
+S0275,John,Brown,Male,25,1st,Computer Science,Online,No,3,Urban,No,Yes,21,28,87.6888875334225,60.1,40.3
+S0276,Bob,Smith,Male,20,1st,Business,Group,No,2,Urban,No,Yes,6,22,88.43457332534894,45.7,30.7
+S0277,John,Davis,Male,23,1st,Statistics,Online,Yes,4,Urban,Yes,Yes,22,12,76.15379406744304,73.6,44.5
+S0278,Peter,Brown,Male,24,4th,Engineering,Online,Yes,1,Urban,Yes,Yes,16,15,61.41359999813172,69.3,36.1
+S0279,John,Miller,Male,25,3rd,Statistics,Group,Yes,2,Urban,No,No,23,16,92.6900280874866,46.8,38.0
+S0280,Jane,Davis,Male,25,2nd,Engineering,Online,No,4,Rural,No,Yes,22,15,53.67502741370433,82.1,36.3
+S0281,Bob,Brown,Female,18,4th,Computer Science,Group,No,1,Urban,Yes,No,21,24,97.72861212383984,74.9,44.4
+S0282,Bob,Williams,Male,19,4th,Statistics,Group,Yes,3,Urban,No,Yes,10,6,79.77470382311455,62.2,42.3
+S0283,Peter,Johnson,Female,20,4th,Engineering,Solo,Yes,2,Urban,No,Yes,19,12,55.74985937554957,58.3,34.0
+S0284,Grace,Davis,Female,18,1st,Business,Solo,Yes,4,Rural,Yes,Yes,7,5,69.90649398960885,68.2,35.3
+S0285,Jane,Jones,Male,23,3rd,Business,Online,No,1,Rural,No,No,10,26,51.911145916543994,66.6,33.6
+S0286,Alice,Jones,Female,18,4th,Statistics,Online,Yes,1,Rural,Yes,No,7,12,80.80817874192348,69.3,30.1
+S0287,John,Williams,Female,25,2nd,Statistics,Group,Yes,3,Rural,No,Yes,5,12,97.08116531336069,58.3,40.4
+S0288,Mary,Brown,Female,19,3rd,Computer Science,Online,No,4,Urban,Yes,No,17,30,87.67683532123289,73.8,43.3
+S0289,John,Smith,Female,22,2nd,Statistics,Group,No,3,Rural,No,No,18,32,73.82108420343643,61.2,40.5
+S0290,Daniel,Brown,Male,18,3rd,Computer Science,Group,No,3,Urban,Yes,Yes,17,18,73.78813411323196,70.4,42.1
+S0291,John,Williams,Female,24,2nd,Computer Science,Online,Yes,4,Urban,No,Yes,8,10,86.60455170459188,58.6,42.3
+S0292,Alice,Jones,Male,18,1st,Business,Group,No,4,Rural,Yes,No,11,26,97.72762823809347,86.2,51.2
+S0293,John,Brown,Female,23,4th,Business,Solo,No,4,Rural,No,No,14,23,70.73014234250701,70.6,33.3
+S0294,Jane,Jones,Female,23,2nd,Engineering,Online,Yes,2,Rural,No,No,11,19,72.45370026111947,88.1,32.9
+S0295,Jane,Davis,Male,20,3rd,Business,Solo,No,4,Rural,No,Yes,19,30,64.32179186235767,71.6,34.3
+S0296,Bob,Smith,Female,23,4th,Business,Online,Yes,1,Rural,No,Yes,19,12,90.24193032153863,67.2,45.4
+S0297,Peter,Davis,Female,21,4th,Statistics,Group,Yes,3,Urban,No,No,8,16,89.34708715877068,71.6,50.9
+S0298,Grace,Jones,Female,19,3rd,Business,Online,No,2,Rural,No,Yes,10,38,62.971320972531586,72.2,39.7
+S0299,Mary,Jones,Male,19,2nd,Engineering,Solo,No,4,Rural,No,Yes,24,37,63.44522919744132,68.0,30.8
+S0300,Daniel,Johnson,Female,22,1st,Statistics,Group,No,2,Rural,No,No,9,28,96.73600219190807,70.0,41.8
+S0301,John,Johnson,Male,22,1st,Engineering,Online,No,4,Urban,No,No,24,27,50.61353107576197,71.1,40.1
+S0302,John,Davis,Female,19,2nd,Business,Online,No,2,Rural,Yes,Yes,16,39,64.52269577269873,57.1,33.3
+S0303,Alice,Miller,Male,24,4th,Engineering,Online,No,3,Urban,Yes,Yes,5,16,74.94605065473661,56.5,37.6
+S0304,Peter,Davis,Male,22,4th,Statistics,Solo,Yes,3,Rural,No,No,12,7,56.66978579446961,58.6,30.0
+S0305,Jane,Johnson,Female,20,4th,Computer Science,Solo,Yes,1,Rural,Yes,Yes,5,14,54.14444393898154,70.6,37.9
+S0306,Mary,Jones,Female,23,4th,Engineering,Online,No,1,Urban,No,Yes,9,38,86.6874348990752,68.9,53.8
+S0307,Bob,Williams,Male,19,2nd,Engineering,Group,Yes,4,Rural,No,No,10,18,96.83213165945521,57.2,42.1
+S0308,Jane,Davis,Male,25,4th,Statistics,Group,No,3,Urban,Yes,No,7,36,94.70819262394568,71.2,47.5
+S0309,Daniel,Jones,Female,22,3rd,Statistics,Solo,Yes,2,Urban,No,Yes,19,14,90.44545503818065,67.3,48.8
+S0310,Peter,Williams,Male,19,4th,Engineering,Group,Yes,2,Urban,No,Yes,9,13,86.59335913175114,66.4,40.7
+S0311,Daniel,Williams,Female,21,1st,Business,Solo,Yes,2,Rural,Yes,Yes,18,14,86.55161544456539,62.9,33.2
+S0312,Grace,Johnson,Female,18,4th,Engineering,Online,No,1,Rural,Yes,No,22,34,67.28191872759952,62.0,40.1
+S0313,Bob,Davis,Female,23,2nd,Statistics,Solo,Yes,2,Rural,No,Yes,20,12,79.98205376655673,58.3,36.1
+S0314,Grace,Brown,Female,19,1st,Computer Science,Solo,No,1,Urban,Yes,Yes,10,24,94.4975989125124,74.7,43.6
+S0315,Alice,Smith,Male,18,2nd,Computer Science,Online,Yes,1,Rural,Yes,No,18,7,60.157747572760734,59.4,26.9
+S0316,Daniel,Johnson,Female,22,2nd,Business,Group,Yes,4,Urban,No,No,12,7,81.69699238873241,66.7,35.1
+S0317,Alice,Johnson,Male,18,1st,Engineering,Solo,Yes,2,Rural,Yes,Yes,11,12,71.60213197895385,78.3,36.5
+S0318,John,Brown,Female,23,2nd,Computer Science,Solo,Yes,2,Urban,Yes,No,12,9,56.210696915902325,62.3,29.2
+S0319,Grace,Smith,Male,19,2nd,Engineering,Online,Yes,3,Urban,No,No,17,7,53.646737470927555,72.7,28.0
+S0320,Peter,Jones,Female,21,4th,Statistics,Group,No,4,Urban,Yes,Yes,10,30,94.89168598964874,69.5,46.8
+S0321,Daniel,Miller,Male,24,3rd,Computer Science,Solo,No,3,Rural,Yes,No,22,31,93.95574677724139,67.5,44.6
+S0322,Mary,Davis,Male,22,2nd,Business,Online,Yes,4,Urban,No,No,6,19,68.21262787233464,68.4,39.1
+S0323,Bob,Miller,Female,19,2nd,Statistics,Solo,Yes,2,Urban,No,Yes,12,7,53.9442426287594,64.2,29.9
+S0324,Jane,Jones,Female,23,2nd,Business,Online,Yes,1,Urban,No,No,15,16,52.96152923107594,65.3,31.0
+S0325,Peter,Johnson,Female,22,4th,Statistics,Group,Yes,1,Urban,Yes,Yes,5,13,96.73954619080897,67.3,48.8
+S0326,Peter,Smith,Female,20,3rd,Computer Science,Group,No,1,Urban,No,Yes,10,35,83.9144274918304,70.2,44.2
+S0327,Alice,Johnson,Male,18,1st,Business,Group,Yes,1,Urban,No,No,20,16,79.60081949687176,60.3,41.5
+S0328,Grace,Williams,Female,24,4th,Business,Group,No,1,Rural,Yes,No,24,29,84.29383813718198,73.0,37.2
+S0329,Daniel,Johnson,Male,23,4th,Statistics,Solo,Yes,3,Rural,No,No,16,6,64.32368426115563,51.4,30.8
+S0330,Daniel,Johnson,Male,20,3rd,Business,Solo,No,4,Urban,No,Yes,15,37,72.0066098888429,68.8,37.3
+S0331,John,Jones,Female,25,3rd,Statistics,Group,Yes,2,Rural,No,No,14,19,95.78669190753811,67.7,39.1
+S0332,John,Jones,Male,19,4th,Statistics,Group,Yes,3,Rural,No,Yes,7,6,87.76904113186288,67.0,36.1
+S0333,Bob,Jones,Male,21,1st,Statistics,Group,No,4,Urban,Yes,No,17,34,90.83961318430526,73.2,42.9
+S0334,Alice,Miller,Male,22,4th,Statistics,Solo,Yes,1,Urban,No,No,7,16,66.41018043054515,62.7,32.2
+S0335,Peter,Williams,Male,18,3rd,Computer Science,Group,Yes,4,Urban,No,No,19,11,92.15517635531556,67.0,44.9
+S0336,Daniel,Jones,Female,22,1st,Statistics,Group,Yes,4,Rural,Yes,Yes,20,8,89.99851254638116,51.3,33.2
+S0337,Mary,Smith,Female,24,3rd,Engineering,Group,No,1,Urban,No,No,17,37,73.5868599325617,61.7,40.1
+S0338,Alice,Miller,Female,19,1st,Business,Online,Yes,1,Rural,Yes,No,21,11,75.76892839020131,71.8,34.5
+S0339,Bob,Brown,Female,22,2nd,Engineering,Group,Yes,1,Urban,Yes,Yes,7,5,77.70230488929275,63.3,39.1
+S0340,Bob,Smith,Male,18,3rd,Computer Science,Online,No,2,Rural,Yes,Yes,24,36,86.18430513351169,66.3,43.7
+S0341,Alice,Davis,Male,19,3rd,Engineering,Online,No,1,Urban,No,No,15,39,69.16719688101227,59.6,36.5
+S0342,Bob,Davis,Female,22,4th,Business,Group,No,2,Urban,Yes,No,23,16,99.84052495589461,64.1,32.2
+S0343,Alice,Smith,Female,21,3rd,Engineering,Online,Yes,1,Rural,Yes,No,15,18,54.16251970725337,60.1,32.0
+S0344,Jane,Jones,Female,23,3rd,Computer Science,Group,Yes,2,Rural,Yes,Yes,20,7,93.41043588220475,55.0,37.5
+S0345,Alice,Brown,Male,19,2nd,Statistics,Solo,Yes,4,Rural,No,Yes,7,14,80.31657800939703,68.1,33.7
+S0346,Grace,Brown,Female,23,3rd,Engineering,Solo,No,3,Rural,No,Yes,10,35,84.53744737658175,64.6,40.8
+S0347,Alice,Miller,Female,25,2nd,Computer Science,Solo,Yes,4,Rural,No,Yes,18,13,63.83884079707053,69.9,37.2
+S0348,Bob,Brown,Female,19,2nd,Computer Science,Solo,Yes,4,Rural,No,No,22,8,72.14245202220803,71.4,27.4
+S0349,Daniel,Davis,Male,21,2nd,Business,Online,No,1,Urban,No,Yes,21,31,85.84288338756687,76.1,40.9
+S0350,Grace,Williams,Male,23,2nd,Business,Group,No,2,Rural,No,Yes,8,34,76.97623994862565,66.1,43.1
+S0351,Bob,Jones,Male,20,1st,Engineering,Group,No,3,Urban,No,Yes,19,36,76.78099590365956,75.1,48.7
+S0352,John,Brown,Male,18,4th,Statistics,Group,No,1,Urban,Yes,No,15,35,86.53152859884797,57.2,50.9
+S0353,John,Miller,Male,20,1st,Computer Science,Solo,No,1,Rural,Yes,No,7,15,73.56036107884351,72.3,48.5
+S0354,Daniel,Davis,Male,22,3rd,Engineering,Solo,Yes,1,Urban,Yes,Yes,7,8,62.701811168581976,72.3,35.8
+S0355,Daniel,Williams,Male,21,1st,Computer Science,Group,No,4,Rural,Yes,Yes,20,20,78.94226951574468,66.9,35.4
+S0356,Grace,Johnson,Male,20,1st,Computer Science,Solo,Yes,2,Rural,No,No,9,17,62.50303234429545,68.6,40.2
+S0357,Jane,Johnson,Female,19,3rd,Statistics,Group,Yes,2,Urban,Yes,No,14,19,93.14536185995463,57.3,35.5
+S0358,Daniel,Williams,Female,22,3rd,Statistics,Group,No,3,Urban,Yes,No,23,28,89.55702596687382,55.4,34.0
+S0359,John,Davis,Male,22,3rd,Engineering,Group,No,2,Rural,Yes,No,8,34,94.97251550230757,78.7,47.1
+S0360,Alice,Miller,Male,20,1st,Statistics,Group,No,2,Rural,Yes,No,23,29,99.26419084942066,63.7,40.3
+S0361,Bob,Williams,Female,25,1st,Statistics,Group,Yes,1,Urban,No,No,15,18,84.2249288881596,63.5,40.1
+S0362,John,Jones,Male,20,3rd,Engineering,Group,No,1,Urban,No,No,6,39,72.00081644216347,56.2,35.4
+S0363,John,Jones,Male,25,4th,Statistics,Group,No,4,Urban,No,No,14,35,71.44276931236107,53.1,36.2
+S0364,Jane,Johnson,Male,21,4th,Business,Solo,No,1,Urban,Yes,Yes,15,38,63.30492676722286,69.6,47.6
+S0365,Grace,Brown,Female,18,2nd,Computer Science,Group,No,1,Rural,No,Yes,24,39,97.97633768057352,68.3,46.1
+S0366,Grace,Miller,Female,20,3rd,Computer Science,Group,No,1,Rural,Yes,Yes,20,19,85.69639164912624,70.0,47.5
+S0367,Peter,Johnson,Female,24,2nd,Computer Science,Solo,Yes,1,Rural,No,Yes,23,10,62.230393223605816,70.4,39.3
+S0368,Jane,Brown,Female,25,4th,Computer Science,Solo,Yes,4,Rural,No,Yes,15,5,67.96250575299588,84.9,41.5
+S0369,Alice,Brown,Female,20,2nd,Engineering,Solo,Yes,1,Urban,No,Yes,18,15,76.93677983321018,68.3,35.3
+S0370,Grace,Jones,Male,23,3rd,Computer Science,Group,No,3,Urban,No,No,6,30,89.58848974413527,77.6,51.8
+S0371,Bob,Davis,Female,19,3rd,Computer Science,Online,No,3,Rural,No,No,9,26,56.92637794023073,78.1,37.9
+S0372,Daniel,Smith,Male,24,3rd,Computer Science,Online,No,3,Rural,Yes,Yes,9,29,93.96642544453292,71.0,45.0
+S0373,Jane,Davis,Male,24,1st,Computer Science,Solo,Yes,3,Rural,No,Yes,23,11,74.5147502142255,63.1,35.4
+S0374,Daniel,Smith,Female,25,2nd,Business,Online,No,1,Rural,Yes,No,16,18,56.10597430065257,54.1,29.4
+S0375,John,Williams,Female,23,4th,Computer Science,Solo,No,3,Rural,Yes,No,22,32,90.21358640057602,68.8,39.3
+S0376,Bob,Jones,Male,23,4th,Business,Group,No,1,Rural,Yes,No,8,35,72.23915293238286,73.2,35.0
+S0377,Bob,Brown,Male,22,4th,Engineering,Online,Yes,4,Rural,Yes,Yes,21,16,90.84809449298808,79.0,47.8
+S0378,John,Miller,Male,25,1st,Statistics,Group,No,3,Rural,Yes,No,14,17,99.89696968866947,57.4,42.1
+S0379,Jane,Smith,Female,18,1st,Computer Science,Online,Yes,2,Rural,No,Yes,24,10,81.51943096204268,63.1,26.2
+S0380,John,Davis,Female,19,3rd,Statistics,Group,No,3,Urban,No,Yes,10,22,93.1134166322197,57.4,35.5
+S0381,Daniel,Brown,Female,21,4th,Statistics,Online,Yes,3,Rural,No,No,18,11,65.17862764103688,59.9,32.3
+S0382,Peter,Smith,Female,24,1st,Engineering,Group,Yes,1,Urban,No,No,15,7,98.24730558201802,70.3,42.9
+S0383,Bob,Smith,Female,21,3rd,Statistics,Group,Yes,3,Urban,Yes,Yes,15,12,85.89141898325103,59.6,28.4
+S0384,Mary,Smith,Male,20,4th,Business,Online,No,2,Rural,No,No,22,32,82.95748009688997,58.4,37.9
+S0385,Mary,Miller,Female,20,2nd,Statistics,Group,No,1,Rural,No,No,22,24,97.72323147733839,71.4,46.3
+S0386,Daniel,Jones,Male,21,3rd,Statistics,Group,Yes,1,Urban,Yes,Yes,15,13,99.25539927926525,72.3,40.9
+S0387,Alice,Miller,Male,20,1st,Statistics,Group,Yes,4,Urban,Yes,No,16,8,94.99613069790023,67.8,40.6
+S0388,Grace,Johnson,Male,18,1st,Computer Science,Online,No,4,Rural,No,Yes,9,31,63.635787814191346,59.8,33.5
+S0389,John,Brown,Female,23,3rd,Computer Science,Online,No,3,Urban,No,Yes,13,22,93.49463824484371,75.3,48.9
+S0390,John,Jones,Female,20,3rd,Business,Group,Yes,4,Rural,Yes,No,13,11,88.84358593730715,65.1,34.2
+S0391,Alice,Jones,Female,22,1st,Business,Group,No,4,Rural,No,Yes,14,25,97.9192742905588,84.0,42.7
+S0392,Alice,Jones,Male,20,2nd,Computer Science,Online,No,4,Rural,No,Yes,23,19,80.42472616164584,66.3,37.6
+S0393,Daniel,Davis,Male,19,4th,Business,Online,No,1,Urban,No,No,5,27,63.82575328314742,46.3,24.4
+S0394,Daniel,Jones,Male,18,2nd,Computer Science,Group,No,1,Urban,No,No,11,35,81.10073572428448,46.0,25.4
+S0395,Alice,Miller,Male,19,3rd,Engineering,Group,Yes,1,Rural,Yes,No,8,11,86.51415331308822,70.0,45.1
+S0396,Bob,Jones,Male,19,2nd,Statistics,Group,No,4,Urban,Yes,Yes,5,19,93.70044524679646,75.4,39.7
+S0397,Daniel,Williams,Male,22,1st,Statistics,Solo,No,1,Urban,Yes,Yes,19,38,64.30921481031507,66.1,31.7
+S0398,Peter,Brown,Female,18,3rd,Business,Online,Yes,4,Urban,No,No,12,15,76.08790247603864,81.8,37.5
+S0399,Daniel,Jones,Female,18,4th,Computer Science,Solo,Yes,1,Urban,No,Yes,16,17,65.55312471093806,78.3,34.1
+S0400,John,Brown,Female,25,1st,Computer Science,Online,No,1,Urban,No,No,22,20,86.70962320857981,66.7,38.4
+S0401,Daniel,Williams,Female,18,1st,Business,Online,No,2,Urban,No,No,19,19,71.00276421955778,69.3,31.4
+S0402,Bob,Williams,Male,18,4th,Computer Science,Online,No,3,Urban,No,Yes,21,23,53.452527208379834,72.2,37.3
+S0403,Alice,Brown,Male,18,4th,Engineering,Online,No,4,Rural,Yes,No,18,30,57.47236346666914,80.1,43.0
+S0404,John,Smith,Female,22,2nd,Statistics,Online,Yes,2,Urban,No,Yes,18,6,52.74971004288345,70.5,24.7
+S0405,Daniel,Johnson,Male,20,3rd,Business,Online,Yes,1,Urban,No,Yes,22,5,72.46863257064464,70.9,31.5
+S0406,Bob,Davis,Female,25,4th,Business,Online,Yes,4,Urban,Yes,No,24,12,54.785178380670224,70.4,29.5
+S0407,Peter,Smith,Female,19,4th,Computer Science,Solo,No,1,Urban,No,Yes,22,33,55.136298618933445,72.7,36.4
+S0408,Daniel,Smith,Female,18,3rd,Business,Group,No,3,Urban,Yes,No,20,25,98.23144780115132,72.4,49.8
+S0409,Bob,Miller,Male,24,4th,Engineering,Group,No,2,Urban,Yes,Yes,5,26,96.17965216528167,52.4,45.4
+S0410,Peter,Davis,Female,20,4th,Computer Science,Solo,No,3,Urban,Yes,Yes,15,26,70.34389685651146,67.5,50.5
+S0411,Alice,Davis,Female,20,2nd,Computer Science,Solo,Yes,2,Urban,Yes,Yes,19,11,94.36123943825926,68.7,28.4
+S0412,Daniel,Smith,Female,19,1st,Computer Science,Solo,Yes,1,Rural,Yes,No,16,14,50.00839376767984,64.4,25.9
+S0413,Peter,Jones,Male,22,1st,Computer Science,Solo,No,3,Urban,No,Yes,12,27,77.62907553230272,71.3,50.2
+S0414,John,Miller,Male,21,1st,Engineering,Online,Yes,3,Urban,Yes,No,24,15,77.73926798173414,80.4,31.3
+S0415,Alice,Miller,Female,21,1st,Computer Science,Group,No,1,Urban,Yes,Yes,10,22,83.72329167609665,70.7,50.3
+S0416,John,Williams,Male,20,4th,Business,Online,No,3,Urban,No,Yes,7,36,67.86265878204318,70.5,42.0
+S0417,Mary,Davis,Male,23,3rd,Engineering,Group,Yes,4,Rural,No,No,17,16,83.66149406441824,77.9,42.5
+S0418,Jane,Smith,Male,23,3rd,Statistics,Group,No,2,Rural,Yes,No,17,23,82.44881308239042,66.3,32.9
+S0419,Daniel,Williams,Male,19,2nd,Statistics,Solo,No,2,Rural,No,No,6,21,82.87216148670348,57.9,35.3
+S0420,Peter,Brown,Male,21,2nd,Business,Online,Yes,2,Rural,No,No,9,19,56.090994573797786,69.9,43.8
+S0421,Jane,Johnson,Male,20,4th,Business,Solo,No,4,Rural,Yes,No,21,35,58.89376492660086,47.4,30.7
+S0422,Jane,Miller,Male,22,3rd,Engineering,Online,No,2,Rural,Yes,Yes,10,38,58.12332027765906,46.6,30.0
+S0423,Peter,Brown,Male,21,3rd,Statistics,Group,Yes,1,Rural,No,Yes,6,19,77.87411755363793,71.7,42.3
+S0424,Alice,Brown,Male,20,1st,Statistics,Solo,No,3,Rural,Yes,No,8,16,73.63662884517124,46.2,30.0
+S0425,Daniel,Jones,Male,20,4th,Statistics,Solo,Yes,4,Rural,Yes,Yes,15,11,55.004393630219845,54.5,29.8
+S0426,Mary,Johnson,Female,18,4th,Statistics,Group,No,2,Rural,No,Yes,12,34,96.04507885979513,62.0,39.2
+S0427,John,Brown,Female,22,1st,Statistics,Group,Yes,1,Rural,Yes,Yes,16,13,78.92084593925416,66.4,36.3
+S0428,Bob,Brown,Male,18,4th,Computer Science,Group,Yes,3,Rural,Yes,No,12,16,74.87613962406124,63.8,32.9
+S0429,John,Johnson,Female,19,4th,Business,Solo,Yes,3,Rural,Yes,Yes,15,5,80.40295893192095,73.9,28.7
+S0430,Bob,Johnson,Female,18,2nd,Computer Science,Online,No,4,Rural,Yes,Yes,24,37,51.71388352696937,66.9,37.8
+S0431,John,Brown,Male,24,3rd,Statistics,Solo,Yes,4,Rural,Yes,Yes,12,10,77.8985854193374,58.3,27.7
+S0432,Peter,Johnson,Male,18,4th,Engineering,Online,Yes,4,Rural,No,No,12,12,81.41892938044249,75.8,39.4
+S0433,Mary,Brown,Male,24,2nd,Engineering,Solo,Yes,1,Urban,No,Yes,21,9,59.67124391240236,62.9,35.1
+S0434,Daniel,Brown,Female,21,3rd,Statistics,Solo,Yes,1,Rural,Yes,Yes,24,19,51.88838330496354,71.1,25.6
+S0435,Bob,Jones,Female,23,1st,Statistics,Group,Yes,4,Urban,No,No,24,5,80.9093607675835,52.7,33.6
+S0436,Daniel,Smith,Male,25,2nd,Engineering,Online,No,2,Rural,Yes,No,20,15,54.43674036088714,67.0,30.5
+S0437,Daniel,Brown,Male,25,2nd,Computer Science,Solo,No,3,Rural,Yes,Yes,18,39,55.24150323530017,62.5,31.0
+S0438,Daniel,Williams,Male,20,3rd,Computer Science,Solo,No,3,Urban,Yes,Yes,15,24,61.4417554150189,73.7,47.8
+S0439,Grace,Miller,Female,25,1st,Statistics,Group,No,1,Rural,Yes,No,11,36,78.86403773880278,70.8,43.1
+S0440,Alice,Davis,Female,24,2nd,Computer Science,Group,No,3,Urban,Yes,No,20,24,85.89911023064262,60.3,35.2
+S0441,John,Smith,Female,22,4th,Engineering,Online,No,2,Urban,No,No,17,35,80.5276348476356,58.8,35.1
+S0442,Daniel,Smith,Female,18,4th,Computer Science,Solo,No,3,Urban,No,No,19,29,76.67469233915831,62.5,42.4
+S0443,John,Smith,Male,24,4th,Statistics,Online,Yes,1,Rural,Yes,No,20,5,56.67621517802826,80.0,31.3
+S0444,Daniel,Jones,Male,22,1st,Engineering,Solo,No,1,Rural,No,No,13,36,57.74387146036819,78.0,44.6
+S0445,Bob,Brown,Male,23,2nd,Computer Science,Online,Yes,2,Rural,Yes,No,7,10,89.54461624068115,57.3,36.4
+S0446,Alice,Jones,Male,25,4th,Business,Group,Yes,2,Urban,No,Yes,23,7,86.75056945192341,71.4,43.5
+S0447,Alice,Brown,Female,23,1st,Engineering,Solo,No,3,Urban,Yes,No,24,27,89.147202480396,51.1,30.9
+S0448,Peter,Jones,Female,25,4th,Engineering,Online,Yes,3,Rural,No,No,9,12,66.71959300939434,61.4,28.7
+S0449,Grace,Jones,Male,18,3rd,Business,Group,Yes,1,Rural,Yes,Yes,14,18,88.4320002229397,65.4,38.1
+S0450,Peter,Miller,Male,19,2nd,Business,Group,Yes,2,Rural,Yes,No,21,19,85.70990248163832,73.6,39.9
+S0451,Peter,Williams,Female,18,2nd,Engineering,Online,Yes,2,Rural,No,No,19,5,64.36055704192081,54.7,26.6
+S0452,Peter,Jones,Male,21,1st,Business,Solo,No,2,Rural,No,Yes,12,31,71.14619174151179,68.4,52.9
+S0453,Peter,Miller,Female,24,1st,Statistics,Solo,No,3,Urban,Yes,No,19,36,72.61208945721194,65.0,49.6
+S0454,Peter,Johnson,Male,20,2nd,Statistics,Group,No,2,Urban,No,Yes,18,27,76.02312924270036,63.6,39.4
+S0455,Mary,Williams,Male,19,4th,Statistics,Solo,No,1,Urban,Yes,Yes,24,31,64.17546675695291,78.4,42.2
+S0456,Alice,Jones,Male,18,4th,Engineering,Solo,No,1,Rural,No,Yes,11,20,85.61343877281391,78.8,42.5
+S0457,Peter,Davis,Male,22,3rd,Business,Solo,No,3,Urban,No,Yes,16,31,91.21047077543572,63.8,36.7
+S0458,Daniel,Smith,Male,19,4th,Business,Group,No,4,Urban,Yes,No,21,30,80.79382280635899,62.2,37.8
+S0459,Alice,Johnson,Male,24,1st,Computer Science,Online,No,3,Urban,No,Yes,21,28,63.81375269940582,52.9,36.0
+S0460,Alice,Johnson,Male,25,1st,Computer Science,Solo,No,4,Urban,No,Yes,14,27,58.78387240573471,65.0,41.8
+S0461,Jane,Miller,Female,19,4th,Business,Group,No,2,Urban,Yes,No,23,20,90.35473505951744,80.6,48.9
+S0462,Mary,Johnson,Female,25,1st,Business,Group,Yes,3,Rural,No,Yes,18,7,79.69299104999011,64.0,27.2
+S0463,Peter,Williams,Female,24,2nd,Business,Online,No,1,Urban,Yes,Yes,15,28,94.44872925946348,73.6,43.6
+S0464,John,Jones,Female,18,2nd,Engineering,Solo,Yes,2,Rural,Yes,Yes,6,18,64.6558160928779,53.8,24.7
+S0465,Bob,Jones,Female,24,4th,Business,Solo,Yes,1,Rural,Yes,Yes,22,19,67.73612210521827,67.8,41.3
+S0466,Grace,Davis,Male,19,2nd,Computer Science,Online,Yes,2,Rural,Yes,No,11,12,77.15003882954156,68.7,35.3
+S0467,Daniel,Smith,Male,22,2nd,Engineering,Online,Yes,3,Rural,Yes,Yes,16,17,86.07579319360872,65.8,38.5
+S0468,John,Miller,Female,23,3rd,Business,Group,No,4,Rural,No,No,6,29,84.08555996036901,71.6,45.9
+S0469,Mary,Smith,Male,19,3rd,Computer Science,Group,Yes,2,Urban,Yes,No,24,10,82.67968101366876,60.2,48.0
+S0470,Bob,Johnson,Female,24,2nd,Engineering,Online,No,4,Urban,Yes,Yes,22,27,94.80370251176637,51.0,38.8
+S0471,Mary,Davis,Female,23,4th,Business,Solo,No,2,Rural,No,Yes,10,31,50.4722138512975,74.0,36.3
+S0472,Daniel,Smith,Male,24,3rd,Business,Group,Yes,1,Rural,No,Yes,14,19,96.85195866553738,65.3,35.2
+S0473,Alice,Williams,Male,22,1st,Business,Group,No,1,Rural,No,Yes,24,35,74.47422477819212,72.5,48.5
+S0474,Bob,Jones,Male,24,1st,Engineering,Solo,Yes,2,Urban,Yes,No,19,12,85.3666374294011,68.6,37.2
+S0475,Alice,Johnson,Female,18,1st,Computer Science,Group,Yes,4,Rural,Yes,No,9,7,88.53794679538893,51.7,42.0
+S0476,Daniel,Davis,Male,20,4th,Computer Science,Solo,No,3,Urban,Yes,No,24,20,65.38312784741414,73.4,42.2
+S0477,John,Smith,Female,25,2nd,Statistics,Solo,No,3,Rural,No,Yes,7,19,89.32437299844582,60.5,36.8
+S0478,Daniel,Miller,Female,25,1st,Business,Solo,Yes,1,Urban,Yes,No,9,10,50.58082525914464,65.4,23.9
+S0479,John,Williams,Female,19,4th,Statistics,Online,No,3,Rural,No,Yes,12,31,60.20107934337157,62.1,37.0
+S0480,Bob,Williams,Male,20,3rd,Statistics,Online,No,1,Urban,Yes,Yes,12,37,75.51017583122912,78.1,41.7
+S0481,Bob,Smith,Male,24,2nd,Computer Science,Online,No,3,Rural,No,Yes,12,39,65.8194017022364,75.7,42.7
+S0482,Peter,Jones,Female,22,3rd,Engineering,Solo,Yes,2,Urban,Yes,Yes,16,6,77.46698728932475,50.5,35.5
+S0483,Mary,Smith,Male,19,4th,Engineering,Solo,Yes,1,Urban,Yes,Yes,12,14,51.08495870339001,81.3,27.9
+S0484,Peter,Johnson,Male,24,1st,Computer Science,Online,No,1,Urban,Yes,No,15,29,55.240651871677066,59.6,34.6
+S0485,Mary,Smith,Male,23,1st,Engineering,Group,No,2,Urban,No,No,18,19,73.81288720655317,81.8,45.1
+S0486,Peter,Williams,Female,21,4th,Statistics,Solo,No,1,Urban,No,Yes,12,34,58.51776406622042,68.7,42.0
+S0487,Alice,Davis,Female,24,1st,Business,Group,No,3,Urban,Yes,No,14,20,83.77994322401628,62.3,31.2
+S0488,Bob,Smith,Male,20,2nd,Computer Science,Group,No,3,Urban,Yes,Yes,11,20,92.56386098630713,63.0,42.4
+S0489,John,Jones,Female,19,4th,Business,Solo,Yes,1,Rural,Yes,Yes,21,15,90.74924770680056,68.0,45.5
+S0490,Mary,Davis,Male,20,3rd,Engineering,Solo,No,3,Rural,No,Yes,8,32,87.59176386279108,85.2,50.4
+S0491,Daniel,Miller,Male,19,4th,Business,Group,Yes,4,Rural,Yes,No,17,6,75.90663615327051,64.4,33.4
+S0492,Mary,Brown,Male,24,2nd,Engineering,Group,No,1,Rural,Yes,Yes,8,18,83.23451656691897,68.5,45.7
+S0493,John,Smith,Male,18,2nd,Engineering,Online,Yes,2,Rural,Yes,Yes,9,5,58.97352189913408,65.6,28.1
+S0494,Peter,Jones,Female,23,4th,Statistics,Online,No,4,Urban,Yes,No,8,39,61.901231750023584,57.3,28.9
+S0495,Mary,Davis,Female,24,4th,Engineering,Solo,Yes,1,Urban,No,No,22,18,72.65961416803488,77.8,38.3
+S0496,Grace,Jones,Female,25,1st,Statistics,Online,No,2,Urban,No,No,10,28,53.06490611255852,53.2,33.8
+S0497,Alice,Miller,Male,20,2nd,Statistics,Online,Yes,3,Urban,Yes,Yes,6,17,59.81784483169729,60.1,38.0
+S0498,Bob,Williams,Male,21,4th,Statistics,Online,Yes,2,Urban,Yes,Yes,15,11,92.09201725882028,72.5,43.5
+S0499,John,Jones,Male,21,4th,Computer Science,Online,Yes,4,Rural,No,No,18,16,70.975233169632,65.3,39.4
+S0500,Bob,Davis,Female,22,2nd,Computer Science,Group,Yes,3,Rural,No,Yes,9,11,83.36159577933617,69.4,44.0

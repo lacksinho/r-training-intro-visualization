@@ -1,5 +1,7 @@
+library(tidyverse)
+
 # Load dataset
-students <- read.csv("sample_unclean_students.csv")
+students <- read.csv("Datasets/sample_unclean_students.csv")
 
 # View structure
 str(students)
@@ -8,7 +10,6 @@ str(students)
 students_clean <- na.omit(students)
 
 # Rename columns
-library(dplyr)
 students_clean <- students_clean %>%
   rename(
     FirstName = first.name,

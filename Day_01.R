@@ -1,48 +1,38 @@
 library(tidyverse)
 
-df <- data.frame(name=c("A", "B"),
-                 gender=c("Male","Female"), score=c(90, 85))
+# define file
+file_path <- "Datasets/sample_unclean_students.csv"
 
-df <- mutate(df, passed = score > 50)
+# load dataset
+students <- read.csv(file_path, na.strings = "")
 
-df$new_score <- df$score-10
+# explore dataset
+str(students)
 
-students <- read.csv("Datasets/sample_unclean_students.csv")
+# Handling missing values: 
+is.na(students)
+  
+# clean missing values
+students_clean <- na.omit(students)
 
-View(students)
+# replace na score to be 0
+students_clean2 <- replace_na(students, list(score =0))
 
-ggplot(students_clean, aes(x = Programme)) +
-  geom_bar(fill = "skyblue") +
-  labs(title = "Student Count by Programme", x = "Programme", y = "Count") +
-  theme_minimal()
-
-
-ggplot(students_clean, aes(x = Programme, fill = gender)) +
-  geom_bar(position = "fill") +  # use "dodge" for side-by-side
-  labs(title = "Gender Proportion by Programme", y = "Proportion") +
-  scale_y_continuous(labels = scales::percent_format()) +
-  theme_minimal()
+students_clean2 <- rename(students_clean2, score2 = score)
 
 
+students_clean$Year <- as.factor(students_clean$Year)
+students_clean$Programme <- as.factor(students_clean$Programme)
+students_clean$city <- as.factor(students_clean$city)
 
-ggplot(students_clean, aes(x = Year, y = score)) +
-  geom_boxplot(fill = "lightgreen") +
-  labs(title = "Score Distribution by Year of Study", x = "Year", y = "Score") +
-  theme_minimal()
-
-
-ggplot(students_clean, aes(x = age, y = score, color = Programme)) +
-  geom_point(alpha = 0.6) +
-  labs(title = "Score vs Age by Programme", x = "Age", y = "Score") +
-  theme_minimal()
+summary(students_clean)
+mean(df$age)
+median(df$score)
+sd(df$score)
+IQR(df$score)
 
 
-ggplot(students_clean, aes(x = age, y = score)) +  geom_point(alpha = 0.5, color = "purple") +
-  facet_wrap(~ gender) +
-  labs(title = "Score vs Age Faceted by Gender") +  theme_minimal()
 
 
-ggplot(students_clean, aes(x = score)) +
-  geom_histogram(binwidth = 5, fill = "orange", color = "black") +
-  labs(title = "Distribution of Student Scores", x = "Score", y = "Frequency") +
-  theme_minimal()
+
+

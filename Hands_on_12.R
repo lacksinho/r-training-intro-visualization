@@ -1,19 +1,13 @@
 library(tidyverse)
 
-# Load dataset
 students <- read.csv("Datasets/sample_unclean_students.csv")
-
-# Load dataset
 students2 <- read.csv("Datasets/sample_students.csv")
 
-# View structure
 str(students)
 
-# Remove NAs
 students_clean <- na.omit(students)
 
-# Rename columns
-students_clean <- students_clean %>% 
+students_clean <- students_clean %>%
   rename(
     FirstName = first.name,
     LastName = last.name,
@@ -21,25 +15,20 @@ students_clean <- students_clean %>%
     Programme = programme
   )
 
-
-
-# Filter rows - e.g., only 3rd year students from Dar es Salaam
-students_filtered <- students_clean %>%  
+# 3rd years from Dar es Salaam, over 20
+students_filtered <- students_clean %>%
   filter(Year == "3rd", city == "Dar es Salaam", age > 20)
 
-
-# select some columns
 students_clean_with_fav_columns <- select(students_clean, gender:city)
 
 students_clean$gender <- as.factor(students_clean$gender)
 
-# Summary table by programme and gender
 summary_table <- students_clean %>%
   group_by(Programme, gender) %>%
   summarise(
     Count = n(),
     Avg_Score = mean(score, na.rm = TRUE)
-  ) 
+  )
 
 print(summary_table)
 
@@ -73,11 +62,10 @@ ggplot(mtcars, aes(x = wt, y = mpg))+
   geom_point()
 
 
-ggplot(mtcars, aes(x = wt, y = mpg, color = factor(cyl))) + 
+ggplot(mtcars, aes(x = wt, y = mpg, color = factor(cyl))) +
   geom_point(size = 3) +
-  labs(title = "MPG vs Weight by Cylinder 
-Count", x = "Weight (1000 lbs)", y = "Miles per Gallon")
-+ theme_light()
+  labs(title = "MPG vs Weight by Cylinder Count", x = "Weight (1000 lbs)", y = "Miles per Gallon") +
+  theme_light()
 
 
 ggplot(students_clean, aes(x = Programme)) +
@@ -88,7 +76,7 @@ ggplot(students_clean, aes(x = Programme)) +
 
 
 ggplot(students_clean, aes(x = Programme, fill = gender)) +
-  geom_bar(position = "dodge") +  # use "dodge" for side-by-side
+  geom_bar(position = "dodge") +
   labs(title = "Gender Proportion by Programme", y = "Proportion")
 
 
@@ -109,6 +97,4 @@ summary(model1)
 plot(students2$Age, students2$Score,main="Age vs Score with Regression Line",
      xlab="Age",ylab="Score",pch=19)
 
-abline(model1, col="red", lwd=2)  
-
-
+abline(model1, col="red", lwd=2)

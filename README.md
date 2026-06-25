@@ -1,42 +1,61 @@
-# R Training: Data Manipulation, Visualization, and Modeling
+# R Training: Data Manipulation, Visualization & Modeling
 
-Welcome to the R Training repository facilitated by **Lackson David** – Software Developer & Data Scientist\
-📧 [lacksinho\@gmail.com](mailto:lacksinho@gmail.com){.email} \| 🌐 [ladam.me](https://ladam.me)
+Materials for the R training sessions I run — slides, sample scripts, and the datasets
+we work through together. Everything here is meant to be opened, edited, and broken on
+purpose. That's how you learn R.
 
-## 📘 Overview
+Facilitated by **Lackson David** — Software Developer & Data Scientist
+[lacksinho@gmail.com](mailto:lacksinho@gmail.com) · [ladam.dev](https://ladam.dev)
 
-This repository contains training materials, slides, and sample codes used in our R training sessions.\
-Key topics include:
+## What's covered
 
--   Introduction to R and RStudio
--   Data manipulation using Tidyverse
--   Data import, cleaning, and summarization
--   Visualization techniques using base R
--   Statistical modeling (linear regression)
+We move from "what is a data frame" to fitting a regression in roughly this order:
 
-------------------------------------------------------------------------
+- Getting comfortable in R and RStudio
+- Wrangling data with the Tidyverse (`dplyr`, `tidyr`)
+- Importing, cleaning, and summarizing messy real-world data
+- Plotting — both base R (`hist`, `boxplot`, `barplot`) and `ggplot2`
+- Linear regression and interpreting the output
 
-## 🗂 Materials
+## Slides
 
-| File Name | Description |
-|--------------------------------|----------------------------------------|
-| `R_Training_Module_1_2.pptx` | Introductory module covering R basics, data types, Tidyverse usage, and hands-on exercises |
-| `Visualization_Techniques_with_R.pptx` | Training slides on base R visualization and linear regression techniques |
-| `sample_codes/` | Directory containing example R scripts used during training |
-| `Datasets/` | Holds datasets for hands-on exercises. |
+| File | What's in it |
+|------|--------------|
+| `R_Training_Module_1_2.pptx` | R basics, data types, and the Tidyverse, with hands-on exercises |
+| `Introduction-to-ggplot2.pptx` | Building plots layer by layer with `ggplot2` |
+| `Visualization_Techniques_with_R.pptx` | Base R plotting and where each chart type fits |
+| `Statistical-Modeling-and-Regression.pptx` | Linear regression — fitting, reading, and trusting (or not) a model |
+| `R_Resources.docx` | Links and references for going deeper after the sessions |
 
-------------------------------------------------------------------------
+## Scripts
 
-## 💻 Requirements
+These are the live-coding files from the sessions. Expect rough edges — they're written
+the way you'd actually write them in class, not polished into a package.
 
-Make sure the following software is installed on your machine:
+| File | Focus |
+|------|-------|
+| `Day_01.R` | First contact: loading data, handling NAs, summary stats |
+| `Hands_on_12.R` | The big one — cleaning, `dplyr` verbs, base + `ggplot2` plots, a regression |
+| `Playing_script.R` | Scratchpad for plotting and multi-variable models |
+| `student_ds_reader.R` | Minimal loader for reading a dataset and peeking at it |
 
--   R (≥ 4.0)
--   RStudio (optional but recommended)
--   Internet access to install R packages
+The `Datasets/` folder holds the CSVs these scripts read — student records (clean and
+deliberately messy versions) plus a couple of health datasets for extra practice.
 
-Install core packages:
+## Getting set up
 
+You'll need:
+
+- R 4.0 or newer
+- RStudio (optional, but it makes life easier)
+- An internet connection the first time, to pull down packages
+
+Then install the Tidyverse — it covers almost everything we use:
+
+```r
 install.packages("tidyverse")
+install.packages("readxl")  # only if you're reading .xlsx files
+```
 
-install.packages("readxl") \# if using Excel files
+Open `Muhas_RTraining.Rproj` in RStudio so the working directory and the relative paths
+in the scripts line up, then run the scripts from there.
